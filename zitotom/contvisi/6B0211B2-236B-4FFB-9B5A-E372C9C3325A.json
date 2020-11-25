@@ -1,0 +1,56 @@
+{
+  "name": "Tom Zito - Control-Vision",
+  "version": "0.0.0.1",
+  "releaseDate": {
+    "year": 2020,
+    "month": 11,
+    "day": 14
+  },
+  "dumps": [
+    {
+      "name": "Scene of the Crime (1986)([unknown])(USA)",
+      "blobs": [
+        {
+          "blobStatus": 0,
+          "name": "Scene of the Crime (1986)([unknown])(USA).vhs"
+        }
+      ]
+    },
+    {
+      "name": "Bottom of the Ninth Inning (1986)([unknown])(USA)",
+      "blobs": [
+        {
+          "blobStatus": 0,
+          "name": "Bottom of the Ninth Inning (1986)([unknown])(USA).vhs"
+        }
+      ]
+    },
+    {
+      "name": "You Might Think (1986)([unknown])(USA)",
+      "blobs": [
+        {
+          "blobStatus": 0,
+          "name": "You Might Think (1986)([unknown])(USA).vhs"
+        }
+      ]
+    },
+    {
+      "name": "Night Trap (1986)([unknown])(USA)",
+      "blobs": [
+        {
+          "blobStatus": 0,
+          "name": "Night Trap (1986)([unknown])(USA).vhs"
+        }
+      ]
+    },
+    {
+      "name": "Sewer Shark (1987)([unknown])(USA)",
+      "blobs": [
+        {
+          "blobStatus": 0,
+          "name": "Sewer Shark (1987)([unknown])(USA).vhs"
+        }
+      ]
+    }
+  ]
+}

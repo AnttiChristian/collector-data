@@ -1,0 +1,202 @@
+[
+  {
+    "id": "9396937C-3C01-4C98-8310-4B0970588876",
+    "manufacturerId": "0B702EDB-E790-483C-9C7B-A2AF34A186D6",
+    "code": "cps1",
+    "name": "CP System",
+    "wiki": "https://en.wikipedia.org/wiki/CP_System"
+  },
+  {
+    "id": "5ED3A87A-A4A9-4FBA-8551-C93387DEB7DD",
+    "manufacturerId": "0B702EDB-E790-483C-9C7B-A2AF34A186D6",
+    "code": "cps2",
+    "name": "CP System II",
+    "wiki": "https://en.wikipedia.org/wiki/CP_System_II"
+  },
+  {
+    "id": "F83842FD-C978-4320-A1E1-A2B850A22B00",
+    "manufacturerId": "0B702EDB-E790-483C-9C7B-A2AF34A186D6",
+    "code": "cps3",
+    "name": "CP SYSTEM III",
+    "wiki": "https://en.wikipedia.org/wiki/CP_System_III"
+  },
+  {
+    "id": "F40A534E-568F-4D2C-B52B-87693C7860C0",
+    "manufacturerId": "EC6264DF-F5CB-4FC7-A4E2-10A759009591",
+    "code": "psx",
+    "name": "Playstation",
+    "wiki": "https://en.wikipedia.org/wiki/PlayStation_(console)"
+  },
+  {
+    "id": "ECDA5518-836D-4159-9839-239C5E6AF288",
+    "manufacturerId": "EC6264DF-F5CB-4FC7-A4E2-10A759009591",
+    "code": "ps2",
+    "name": "Playstation 2",
+    "wiki": "https://en.wikipedia.org/wiki/PlayStation_2"
+  },
+  {
+    "id": "5CE66853-65DB-4944-B902-1768260686A2",
+    "manufacturerId": "EC6264DF-F5CB-4FC7-A4E2-10A759009591",
+    "code": "ps3",
+    "name": "Playstation 3",
+    "wiki": "https://en.wikipedia.org/wiki/PlayStation_3"
+  },
+  {
+    "id": "068D4669-2818-4F1F-ACB5-7FE42A2AE856",
+    "manufacturerId": "EC6264DF-F5CB-4FC7-A4E2-10A759009591",
+    "code": "ps4",
+    "name": "Playstation 4",
+    "wiki": "https://en.wikipedia.org/wiki/PlayStation_4"
+  },
+  {
+    "id": "BDDF56F3-B928-4570-93C8-3ABF5608BBD1",
+    "manufacturerId": "EC6264DF-F5CB-4FC7-A4E2-10A759009591",
+    "code": "ps5",
+    "name": "Playstation 5",
+    "wiki": "https://en.wikipedia.org/wiki/PlayStation_5"
+  },
+  {
+    "id": "CC4E4881-B56F-457C-BFE8-66B4F8E4E5D6",
+    "manufacturerId": "EC6264DF-F5CB-4FC7-A4E2-10A759009591",
+    "code": "psp",
+    "name": "Playstation Portable",
+    "wiki": "https://en.wikipedia.org/wiki/PlayStation_Portable"
+  },
+  {
+    "id": "9E37AD4E-C99C-45AA-8AC4-2D5105CB17D9",
+    "manufacturerId": "EC6264DF-F5CB-4FC7-A4E2-10A759009591",
+    "code": "psv",
+    "name": "Playstation Vita",
+    "wiki": "https://en.wikipedia.org/wiki/PlayStation_Vita"
+  },
+  {
+    "id": "5CF81C50-46DB-405C-92AF-1BE2733424D5",
+    "manufacturerId": "02C27874-9876-4D1E-9302-B30D4A8A4EF5",
+    "code": "actmax",
+    "name": "Action Max",
+    "wiki": "https://en.wikipedia.org/wiki/Action_Max"
+  },
+  {
+    "id": "6B0211B2-236B-4FFB-9B5A-E372C9C3325A",
+    "manufacturerId": "A9A915A0-BF8B-47C4-AE36-675893E5C1F2",
+    "code": "contvisi",
+    "name": "Control-Vision",
+    "wiki": "https://en.wikipedia.org/wiki/Control-Vision",
+    "phase": "prototype"
+  },
+  {
+    "id": "9FEAD22F-8981-49FA-84E9-038451F67CC2",
+    "manufacturerId": "DD1851E6-6AEF-46FA-89D0-F908D632FF72",
+    "code": "vimaster",
+    "name": "View-Master Interactive Vision",
+    "wiki": "https://en.wikipedia.org/wiki/View-Master_Interactive_Vision"
+  },
+  {
+    "id": "7F1D9D7E-651E-4611-A024-02870CEE2F0C",
+    "code": "a2600",
+    "manufacturerId": "94F9D435-19D6-48BD-81BB-32F5F68F02B3",
+    "name": "Atari 2600"
+  },
+  {
+    "id": "69F6BDBB-68D8-44BA-A418-96F63CC30915",
+    "code": "a5200",
+    "manufacturerId": "94F9D435-19D6-48BD-81BB-32F5F68F02B3",
+    "name": "Atari 5200"
+  },
+  {
+    "id": "439F5F88-641C-4E9F-A214-2764FB0124C6",
+    "code": "a7800",
+    "manufacturerId": "94F9D435-19D6-48BD-81BB-32F5F68F02B3",
+    "name": "Atari 7800"
+  },
+  {
+    "id": "56CAD25C-00F5-4986-A31E-B6BE4ACDB037",
+    "code": "jaguar",
+    "manufacturerId": "94F9D435-19D6-48BD-81BB-32F5F68F02B3",
+    "name": "Jaguar"
+  },
+  {
+    "id": "C73B6CE3-FE5E-4393-95D0-50DED7924C60",
+    "code": "a400",
+    "manufacturerId": "94F9D435-19D6-48BD-81BB-32F5F68F02B3",
+    "name": "Atari 400 Family"
+  },
+  {
+    "id": "2ABF85C4-A68E-427F-AC99-2D4D06E7D670",
+    "code": "atarist",
+    "manufacturerId": "94F9D435-19D6-48BD-81BB-32F5F68F02B3",
+    "name": "Atari ST Family"
+  },
+  {
+    "id": "4EE778FD-CA0C-475B-818A-E22B4FB39058",
+    "code": "ataripc",
+    "manufacturerId": "94F9D435-19D6-48BD-81BB-32F5F68F02B3",
+    "name": "Atari PC"
+  },
+  {
+    "id": "67EC4F15-79BA-4EC3-AFFD-A35C7ACC7A5D",
+    "code": "ataripc2",
+    "manufacturerId": "94F9D435-19D6-48BD-81BB-32F5F68F02B3",
+    "name": "Atari PC2"
+  },
+  {
+    "id": "71F994F1-B81D-486D-B329-9BFA31E8ECF1",
+    "code": "ataripc3",
+    "manufacturerId": "94F9D435-19D6-48BD-81BB-32F5F68F02B3",
+    "category": "Atari PC3"
+  },
+  {
+    "id": "DE455D9C-C4A9-4C13-8D73-35E5B219E12F",
+    "code": "ataripc4",
+    "manufacturerId": "94F9D435-19D6-48BD-81BB-32F5F68F02B3",
+    "name": "Atari PC4"
+  },
+  {
+    "id": "55577E82-C60B-4165-ABCE-A104FF16D21A",
+    "code": "ataripc5",
+    "manufacturerId": "94F9D435-19D6-48BD-81BB-32F5F68F02B3",
+    "category": "Atari PC5"
+  },
+  {
+    "id": "C8BE9D98-00F9-46B3-8176-8E171FCF1557",
+    "code": "amiga",
+    "manufacturerId": "C4A7C63A-7625-4ECB-B619-8F2A2D685B8E",
+    "name": "Amiga family"
+  },
+  {
+    "id": "D0E209C7-E468-4EF4-9667-301A3EB4FFDD",
+    "code": "amicdtv",
+    "manufacturerId": "C4A7C63A-7625-4ECB-B619-8F2A2D685B8E",
+    "name": "Amiga CDTV"
+  },
+  {
+    "id": "1B9A3AA6-154F-432F-8620-815AD097D907",
+    "code": "amigacd32",
+    "manufacturerId": "C4A7C63A-7625-4ECB-B619-8F2A2D685B8E",
+    "name": "Amiga CD32"
+  },
+  {
+    "id": "4F21C192-0813-4226-93C5-0B0008E6F140",
+    "code": "ngc",
+    "manufacturerId": "E55599F8-1A38-4C97-AE4C-73D632658954",
+    "name": "Nintendo GameCube"
+  },
+  {
+    "id": "68F5F2EB-377F-4371-BCF2-71B1A1B65491",
+    "code": "wii",
+    "manufacturerId": "E55599F8-1A38-4C97-AE4C-73D632658954",
+    "name": "Wii"
+  },
+  {
+    "id": "C34C8807-D943-43B0-9526-396129995D63",
+    "code": "wiiu",
+    "manufacturerId": "E55599F8-1A38-4C97-AE4C-73D632658954",
+    "name": "Wii U"
+  },
+  {
+    "id": "DDC6E1D8-063E-432E-AE6C-B8426808B49A",
+    "code": "switch",
+    "manufacturerId": "E55599F8-1A38-4C97-AE4C-73D632658954",
+    "name": "Nintendo Switch"
+  }
+]

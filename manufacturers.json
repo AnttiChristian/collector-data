@@ -1,0 +1,67 @@
+[
+  {
+    "id": "0DE7CB62-6B3C-442B-BF97-99D653B9B4B7",
+    "code": "mgt",
+    "name": "Miles Gordon Technology"
+  },
+  {
+    "id": "EC6264DF-F5CB-4FC7-A4E2-10A759009591",
+    "code": "sony",
+    "name": "Sony Computer Entertainment"
+  },
+  {
+    "id": "94F9D435-19D6-48BD-81BB-32F5F68F02B3",
+    "code": "atari",
+    "name": "Atari, Inc."
+  },
+  {
+    "id": "C4A7C63A-7625-4ECB-B619-8F2A2D685B8E",
+    "code": "commodore",
+    "name": "Commodore International"
+  },
+  {
+    "id": "94F9D435-19D6-48BD-81BB-32F5F68F02B3",
+    "code": "amstrad",
+    "name": "Amstrad"
+  },
+  {
+    "id": "94F9D435-19D6-48BD-81BB-32F5F68F02B3",
+    "code": "acorn",
+    "name": "Acorn Computers Ltd."
+  },
+  {
+    "id": "0B702EDB-E790-483C-9C7B-A2AF34A186D6",
+    "code": "capcom",
+    "name": "Capcom Co., Ltd."
+  },
+  {
+    "id": "6469CE21-7528-4F8D-8DEC-8BA4E663A52D",
+    "code": "irem",
+    "name": "Irem Software Engineering"
+  },
+  {
+    "id": "02C27874-9876-4D1E-9302-B30D4A8A4EF5",
+    "code": "wow",
+    "name": "Worlds of Wonder"
+  },
+  {
+    "id": "DD1851E6-6AEF-46FA-89D0-F908D632FF72",
+    "code": "vmigi",
+    "name": "View-Master Ideal Group, Inc."
+  },
+  {
+    "id": "A9A915A0-BF8B-47C4-AE36-675893E5C1F2",
+    "code": "zitotom",
+    "name": "Tom Zito"
+  },
+  {
+    "id": "E55599F8-1A38-4C97-AE4C-73D632658954",
+    "code": "nintendo",
+    "name": "Nintendo Co., Ltd."
+  },
+  {
+    "id": "A7D6041C-0A01-4061-A531-1C9F218E04D9",
+    "code": "panasonic",
+    "name": "Panasonic Corporation"
+  }
+]
