@@ -1,0 +1,74 @@
+{
+  "name": "View-Master Ideal Group, Inc. - View-Master Interactive Vision",
+  "version": "0.0.0.1",
+  "releaseDate": {
+    "year": 2020,
+    "month": 11,
+    "day": 14
+  },
+  "dumps": [
+    {
+      "name": "Sesame Street - Let's Learn to Play Together (19xx)([unknown])(USA)",
+      "blobs": [
+        {
+          "blobStatus": 0,
+          "name": "Sesame Street - Let's Learn to Play Together (19xx)([unknown])(USA).vhs"
+        }
+      ]
+    },
+    {
+      "name": "Sesame Street - Magic on Sesame Street (19xx)([unknown])(USA)",
+      "blobs": [
+        {
+          "blobStatus": 0,
+          "name": "Sesame Street - Magic on Sesame Street (19xx)([unknown])(USA).vhs"
+        }
+      ]
+    },
+    {
+      "name": "Sesame Street - Let's Play School (19xx)([unknown])(USA)",
+      "blobs": [
+        {
+          "blobStatus": 0,
+          "name": "Sesame Street - Let's Play School (19xx)([unknown])(USA).vhs"
+        }
+      ]
+    },
+    {
+      "name": "Sesame Street - Oscar's Letter Party (19xx)([unknown])(USA)",
+      "blobs": [
+        {
+          "blobStatus": 0,
+          "name": "Sesame Street - Oscar's Letter Party (19xx)([unknown])(USA).vhs"
+        }
+      ]
+    },
+    {
+      "name": "Muppet Madness (1987)(19xx)([unknown])(USA)",
+      "blobs": [
+        {
+          "blobStatus": 0,
+          "name": "Muppet Madness (1987)(19xx)([unknown])(USA).vhs"
+        }
+      ]
+    },
+    {
+      "name": "Muppet Studios Presents - You're the Director (1987)(19xx)([unknown])(USA)",
+      "blobs": [
+        {
+          "blobStatus": 0,
+          "name": "Muppet Studios Presents - You're the Director (1987)(19xx)([unknown])(USA).vhs"
+        }
+      ]
+    },
+    {
+      "name": "Disney's Cartoon Arcade (1987)(19xx)([unknown])(USA)",
+      "blobs": [
+        {
+          "blobStatus": 0,
+          "name": "Disney's Cartoon Arcade (1987)(19xx)([unknown])(USA).vhs"
+        }
+      ]
+    }
+  ]
+}

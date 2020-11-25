@@ -1,0 +1,71 @@
+{
+  "name": "Worlds of Wonder - Action Max",
+  "version": "0.0.0.1",
+  "releaseDate": {
+    "year": 2020,
+    "month": 11,
+    "day": 14
+  },
+  "dumps": [
+    {
+      "name": "38 Ambush Alley (19xx)([unknown])(USA)",
+      "blobs": [
+        {
+          "blobStatus": 0,
+          "name": "38 Ambush Alley (19xx)([unknown])(USA).vhs"
+        }
+      ]
+    },
+    {
+      "name": "Blue Thunder (19xx)([unknown])(USA)",
+      "blobs": [
+        {
+          "blobStatus": 0,
+          "name": "Blue Thunder (19xx)([unknown])(USA).vhs"
+        }
+      ]
+    },
+    {
+      "name": "Hydrosub: 2021 (19xx)([unknown])(USA)",
+      "blobs": [
+        {
+          "blobStatus": 0,
+          "name": "Hydrosub: 2021 (19xx)([unknown])(USA).vhs"
+        }
+      ]
+    },
+    {
+      "name": "The Rescue of Pops Ghostly (19xx)([unknown])(USA)",
+      "blobs": [
+        {
+          "blobStatus": 0,
+          "name": "The Rescue of Pops Ghostly (19xx)([unknown])(USA).vhs"
+        }
+      ]
+    },
+    {
+      "name": "Sonic Fury (19xx)([unknown])(USA)",
+      "blobs": [
+        {
+          "blobStatus": 0,
+          "name": "Sonic Fury (19xx)([unknown])(USA).vhs"
+        }
+      ]
+    },
+    {
+      "name": "Fright Night (19xx)([unknown])(USA)",
+      "blobs": [
+        {
+          "blobStatus": 0,
+          "name": "Fright Night (19xx)([unknown])(USA).vhs"
+        }
+      ],
+      "modifiers": [
+        {
+          "modType": "info",
+          "description": "was ever released or prototyped ???"
+        }
+      ]
+    }
+  ]
+}
