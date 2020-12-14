@@ -8,6 +8,7 @@
   },
   "dumps": [
     {
+      "code": "38ambush",
       "name": "38 Ambush Alley (19xx)([unknown])(USA)",
       "blobs": [
         {
@@ -17,6 +18,7 @@
       ]
     },
     {
+      "code": "bthunder",
       "name": "Blue Thunder (19xx)([unknown])(USA)",
       "blobs": [
         {
@@ -26,6 +28,7 @@
       ]
     },
     {
+      "code": "hydrosub",
       "name": "Hydrosub: 2021 (19xx)([unknown])(USA)",
       "blobs": [
         {
@@ -35,6 +38,7 @@
       ]
     },
     {
+      "code": "popghost",
       "name": "The Rescue of Pops Ghostly (19xx)([unknown])(USA)",
       "blobs": [
         {
@@ -44,6 +48,7 @@
       ]
     },
     {
+      "code": "sunicfur",
       "name": "Sonic Fury (19xx)([unknown])(USA)",
       "blobs": [
         {
@@ -53,6 +58,7 @@
       ]
     },
     {
+      "code": "frightnt",
       "name": "Fright Night (19xx)([unknown])(USA)",
       "blobs": [
         {
