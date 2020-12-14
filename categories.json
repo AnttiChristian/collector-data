@@ -1,0 +1,29 @@
+[
+    {
+        "id": "",
+        "name": "software",
+        "subCategories": [
+            {
+                "id": "",
+                "name": "games",
+                "subCategories": [
+                    
+                ]
+            },
+            {
+                "id": "",
+                "name": "applications",
+                "subCategories": [
+        
+                ]
+            },
+            {
+                "id": "",
+                "name": "oses",
+                "subCategories": [
+        
+                ]
+            }
+        ]
+    }
+]
