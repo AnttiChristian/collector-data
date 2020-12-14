@@ -182,6 +182,12 @@
     "name": "Nintendo GameCube"
   },
   {
+    "id": "15659179-E75C-4079-BA86-910C837412A9",
+    "code": "nestest",
+    "manufacturerId": "E55599F8-1A38-4C97-AE4C-73D632658954",
+    "name": "NES Test Station"
+  },
+  {
     "id": "68F5F2EB-377F-4371-BCF2-71B1A1B65491",
     "code": "wii",
     "manufacturerId": "E55599F8-1A38-4C97-AE4C-73D632658954",
