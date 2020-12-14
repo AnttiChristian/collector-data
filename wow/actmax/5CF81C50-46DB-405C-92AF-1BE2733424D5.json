@@ -8,6 +8,8 @@
   },
   "dumps": [
     {
+      "id": "CF7229B3-08F2-46B9-8D98-579C57E865C3",
+      "code": "38ambush",
       "name": "38 Ambush Alley (19xx)([unknown])(USA)",
       "blobs": [
         {
@@ -17,6 +19,8 @@
       ]
     },
     {
+      "id": "6D35D1E2-3B07-4F2E-AE28-6EB11BC2F6EB",
+      "code": "bthunder",
       "name": "Blue Thunder (19xx)([unknown])(USA)",
       "blobs": [
         {
@@ -26,6 +30,8 @@
       ]
     },
     {
+      "id": "FBD7E984-4678-4AC6-9A17-5925D0662175",
+      "code": "hydrosub",
       "name": "Hydrosub: 2021 (19xx)([unknown])(USA)",
       "blobs": [
         {
@@ -35,6 +41,8 @@
       ]
     },
     {
+      "id": "A7FBC051-3EFC-484C-9C99-7824CAFE0698",
+      "code": "popghost",
       "name": "The Rescue of Pops Ghostly (19xx)([unknown])(USA)",
       "blobs": [
         {
@@ -44,6 +52,8 @@
       ]
     },
     {
+      "id": "3BBDF1C7-872F-49FE-B7FC-E172B54070AC",
+      "code": "sunicfur",
       "name": "Sonic Fury (19xx)([unknown])(USA)",
       "blobs": [
         {
@@ -53,6 +63,8 @@
       ]
     },
     {
+      "id": "9F18E0EE-FC33-4AB5-BC97-F9F98A47EC24",
+      "code": "frightnt",
       "name": "Fright Night (19xx)([unknown])(USA)",
       "blobs": [
         {
