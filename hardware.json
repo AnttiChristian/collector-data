@@ -1,5 +1,47 @@
 [
   {
+    "id": "4FDAF35E-2B54-46A8-A92E-27C39086B3FC",
+    "manufacturerId": "7A31BDCE-A1B5-4F8C-B2DB-20986FC747F2",
+    "code": "phoebe",
+    "name": "Phoebe",
+    "wiki": "https://en.wikipedia.org/wiki/Phoebe_(computer)"
+  },
+  {
+    "id": "73B83C53-83C7-48D2-9901-820578BA8F46",
+    "manufacturerId": "7A31BDCE-A1B5-4F8C-B2DB-20986FC747F2",
+    "code": "archimedes",
+    "name": "Archimedes",
+    "wiki": "https://en.wikipedia.org/wiki/Acorn_Archimedes"
+  },
+  {
+    "id": "1AA7FC3D-F418-434E-B726-CB0B51CD2914",
+    "manufacturerId": "7A31BDCE-A1B5-4F8C-B2DB-20986FC747F2",
+    "code": "atom",
+    "name": "Atom",
+    "wiki": "https://en.wikipedia.org/wiki/Acorn_Atom"
+  },
+  {
+    "id": "DC55D8EE-2A90-4DE1-BACF-8E6FCE586299",
+    "manufacturerId": "7A31BDCE-A1B5-4F8C-B2DB-20986FC747F2",
+    "code": "bbc",
+    "name": "BBC Famnily",
+    "wiki": "https://en.wikipedia.org/wiki/Acorn_Computers"
+  },
+  {
+    "id": "402A2085-ECF0-47E0-B0E9-A85C8410393F",
+    "manufacturerId": "7A31BDCE-A1B5-4F8C-B2DB-20986FC747F2",
+    "code": "electron",
+    "name": "Electron",
+    "wiki": "https://en.wikipedia.org/wiki/Acorn_Electron"
+  },
+  {
+    "id": "E582B056-59A7-42A5-9D0A-96D487633D57",
+    "manufacturerId": "7A31BDCE-A1B5-4F8C-B2DB-20986FC747F2",
+    "code": "filestore",
+    "name": "FileStore E01",
+    "wiki": ""
+  },
+  {
     "id": "9396937C-3C01-4C98-8310-4B0970588876",
     "manufacturerId": "0B702EDB-E790-483C-9C7B-A2AF34A186D6",
     "code": "cps1",
@@ -114,6 +156,12 @@
     "code": "jaguar",
     "manufacturerId": "94F9D435-19D6-48BD-81BB-32F5F68F02B3",
     "name": "Jaguar"
+  },
+  {
+    "id": "0AFAFE48-86DD-4EEF-BAD6-C8DA4E66CC20",
+    "code": "lynx",
+    "manufacturerId": "94F9D435-19D6-48BD-81BB-32F5F68F02B3",
+    "name": "Lynx"
   },
   {
     "id": "C73B6CE3-FE5E-4393-95D0-50DED7924C60",
