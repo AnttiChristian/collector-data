@@ -296,6 +296,20 @@
     "name": "Nintendo Switch"
   },
   {
+    "id": "C5769D17-79E8-4F7E-8C00-51FDBB1A528A",
+    "code": "zxspecp2",
+    "manufacturerId": "2687E989-93CF-4463-B408-400F285D7E4B",
+    "name": "ZX Spectrum +2",
+    "wiki": ""
+  },
+  {
+    "id": "9E3F37A1-F38A-435E-835D-37C65E7CD2E9",
+    "code": "zxspecp3",
+    "manufacturerId": "2687E989-93CF-4463-B408-400F285D7E4B",
+    "name": "ZX Spectrum +3",
+    "wiki": ""
+  },
+  {
     "id": "2DCED43C-6766-40F7-8F6A-7D72323D8E77",
     "code": "nc100",
     "manufacturerId": "2687E989-93CF-4463-B408-400F285D7E4B",
