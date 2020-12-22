@@ -303,6 +303,55 @@
     "wiki": ""
   },
   {
+    "id": "B9B350E9-C572-4E31-8383-6105399D0D65",
+    "code": "cpc464",
+    "manufacturerId": "2687E989-93CF-4463-B408-400F285D7E4B",
+    "name": "CPC 464",
+    "wiki": "https://en.wikipedia.org/wiki/Amstrad_CPC_464"
+  },
+  {
+    "id": "FA3797BF-5F6F-4AA9-8D20-DF0637E0132C",
+    "code": "cpc472",
+    "manufacturerId": "2687E989-93CF-4463-B408-400F285D7E4B",
+    "name": "CPC 472",
+    "wiki": "https://en.wikipedia.org/wiki/Amstrad_CPC#CPC472"
+  },
+  {
+    "id": "6F31D045-B111-4472-AE9B-0F4D59DD91B5",
+    "code": "cpc664",
+    "manufacturerId": "2687E989-93CF-4463-B408-400F285D7E4B",
+    "name": "CPC 664",
+    "wiki": "https://en.wikipedia.org/wiki/Amstrad_CPC#CPC664"
+  },
+  {
+    "id": "9307F672-1296-49D8-8509-B1DA254848B3",
+    "code": "cpc6128",
+    "manufacturerId": "2687E989-93CF-4463-B408-400F285D7E4B",
+    "name": "CPC 6128",
+    "wiki": "https://en.wikipedia.org/wiki/Amstrad_CPC#CPC6128"
+  },
+  {
+    "id": "069F59C9-FAF3-40CE-AE59-B7D00F9AD13C",
+    "code": "plus464",
+    "manufacturerId": "2687E989-93CF-4463-B408-400F285D7E4B",
+    "name": "464 Plus",
+    "wiki": "https://en.wikipedia.org/wiki/Amstrad_CPC#464plus.2C_6128plus"
+  },
+  {
+    "id": "4ACDC8C1-5B3E-424A-AFC4-F82AD6D04760",
+    "code": "plus6128",
+    "manufacturerId": "2687E989-93CF-4463-B408-400F285D7E4B",
+    "name": "6128 Plus",
+    "wiki": "https://en.wikipedia.org/wiki/Amstrad_CPC#464plus.2C_6128plus"
+  },
+  {
+    "id": "866A9E5B-0869-43E2-BFA4-006DEB4818FA",
+    "code": "gx4000",
+    "manufacturerId": "2687E989-93CF-4463-B408-400F285D7E4B",
+    "name": "GX4000",
+    "wiki": "https://en.wikipedia.org/wiki/Amstrad_GX4000"
+  },
+  {
     "id": "9E3F37A1-F38A-435E-835D-37C65E7CD2E9",
     "code": "zxspecp3",
     "manufacturerId": "2687E989-93CF-4463-B408-400F285D7E4B",
