@@ -315,5 +315,47 @@
     "manufacturerId": "2687E989-93CF-4463-B408-400F285D7E4B",
     "name": "Notepad Computer NC200",
     "wiki": "https://en.wikipedia.org/wiki/Amstrad_NC100"
+  },
+  {
+    "id": "55E63AF2-FEC0-45AF-A57E-C28F098B3DB5",
+    "code": "apple1",
+    "manufacturerId": "AD5AE2A9-F253-4277-9C2A-0B3B12CBEA6E",
+    "name": "Apple 1",
+    "wiki": ""
+  },
+  {
+    "id": "7FA2BA1D-4055-444D-B322-4E20138C9899",
+    "code": "apple2",
+    "manufacturerId": "AD5AE2A9-F253-4277-9C2A-0B3B12CBEA6E",
+    "name": "Apple II",
+    "wiki": ""
+  },
+  {
+    "id": "C7F16B6F-C3D3-443B-A52D-3E3D1EFCF644",
+    "code": "apple2gs",
+    "manufacturerId": "AD5AE2A9-F253-4277-9C2A-0B3B12CBEA6E",
+    "name": "Apple IIGS",
+    "wiki": ""
+  },
+  {
+    "id": "7495B74A-217F-4DCA-AE60-94FECF1FEE19",
+    "code": "apple3",
+    "manufacturerId": "AD5AE2A9-F253-4277-9C2A-0B3B12CBEA6E",
+    "name": "Apple III",
+    "wiki": ""
+  },
+  {
+    "id": "D13AE9B-E6BA-4BA3-94CD-A67227979A66",
+    "code": "lisa",
+    "manufacturerId": "AD5AE2A9-F253-4277-9C2A-0B3B12CBEA6E",
+    "name": "Lisa",
+    "wiki": ""
+  },
+  {
+    "id": "4C51A03E-C9ED-445D-9BA3-6EF771147278",
+    "code": "macintosh",
+    "manufacturerId": "AD5AE2A9-F253-4277-9C2A-0B3B12CBEA6E",
+    "name": "Macintosh",
+    "wiki": ""
   }
 ]
