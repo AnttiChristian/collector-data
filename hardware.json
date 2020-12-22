@@ -42,6 +42,48 @@
     "wiki": ""
   },
   {
+    "id": "55E63AF2-FEC0-45AF-A57E-C28F098B3DB5",
+    "manufacturerId": "AD5AE2A9-F253-4277-9C2A-0B3B12CBEA6E",
+    "code": "apple1",
+    "name": "Apple 1",
+    "wiki": "https://en.wikipedia.org/wiki/Apple_I"
+  },
+  {
+    "id": "7FA2BA1D-4055-444D-B322-4E20138C9899",
+    "manufacturerId": "AD5AE2A9-F253-4277-9C2A-0B3B12CBEA6E",
+    "code": "apple2",
+    "name": "Apple II",
+    "wiki": "https://en.wikipedia.org/wiki/Apple_II"
+  },
+  {
+    "id": "C7F16B6F-C3D3-443B-A52D-3E3D1EFCF644",
+    "manufacturerId": "AD5AE2A9-F253-4277-9C2A-0B3B12CBEA6E",
+    "code": "apple2gs",
+    "name": "Apple IIGS",
+    "wiki": "https://en.wikipedia.org/wiki/Apple_IIGS"
+  },
+  {
+    "id": "7495B74A-217F-4DCA-AE60-94FECF1FEE19",
+    "manufacturerId": "AD5AE2A9-F253-4277-9C2A-0B3B12CBEA6E",
+    "code": "apple3",
+    "name": "Apple III",
+    "wiki": "https://en.wikipedia.org/wiki/Apple_III"
+  },
+  {
+    "id": "4C51A03E-C9ED-445D-9BA3-6EF771147278",
+    "manufacturerId": "AD5AE2A9-F253-4277-9C2A-0B3B12CBEA6E",
+    "code": "macintosh",
+    "name": "Apple Macintosh",
+    "wiki": "https://en.wikipedia.org/wiki/Macintosh"
+  },
+  {
+    "id": "CD13AE9B-E6BA-4BA3-94CD-A67227979A66",
+    "manufacturerId": "AD5AE2A9-F253-4277-9C2A-0B3B12CBEA6E",
+    "code": "lisa",
+    "name": "Lisa",
+    "wiki": "https://en.wikipedia.org/wiki/Apple_Lisa"
+  },
+  {
     "id": "9396937C-3C01-4C98-8310-4B0970588876",
     "manufacturerId": "0B702EDB-E790-483C-9C7B-A2AF34A186D6",
     "code": "cps1",
@@ -252,5 +294,110 @@
     "code": "switch",
     "manufacturerId": "E55599F8-1A38-4C97-AE4C-73D632658954",
     "name": "Nintendo Switch"
+  },
+  {
+    "id": "B9B350E9-C572-4E31-8383-6105399D0D65",
+    "code": "cpc",
+    "manufacturerId": "2687E989-93CF-4463-B408-400F285D7E4B",
+    "name": "CPC Family",
+    "wiki": "https://en.wikipedia.org/wiki/Amstrad_CPC_464"
+  },
+  {
+    "id": "85A13318-1AA8-425D-B4FE-527C9E4F67DD",
+    "code": "pcw",
+    "manufacturerId": "2687E989-93CF-4463-B408-400F285D7E4B",
+    "name": "PCW Family",
+    "wiki": ""
+  },
+  {
+    "id": "15B2BB4C-1744-4033-BB03-AD73426D23B4",
+    "code": "pcw16",
+    "manufacturerId": "2687E989-93CF-4463-B408-400F285D7E4B",
+    "name": "PcW16",
+    "wiki": ""
+  },
+  {
+    "id": "866A9E5B-0869-43E2-BFA4-006DEB4818FA",
+    "code": "gx4000",
+    "manufacturerId": "2687E989-93CF-4463-B408-400F285D7E4B",
+    "name": "GX4000",
+    "wiki": "https://en.wikipedia.org/wiki/Amstrad_GX4000"
+  },
+  {
+    "id": "C5769D17-79E8-4F7E-8C00-51FDBB1A528A",
+    "code": "zxspecp2",
+    "manufacturerId": "2687E989-93CF-4463-B408-400F285D7E4B",
+    "name": "ZX Spectrum +2",
+    "wiki": ""
+  },
+  {
+    "id": "9E3F37A1-F38A-435E-835D-37C65E7CD2E9",
+    "code": "zxspecp3",
+    "manufacturerId": "2687E989-93CF-4463-B408-400F285D7E4B",
+    "name": "ZX Spectrum +3",
+    "wiki": ""
+  },
+  {
+    "id": "2DCED43C-6766-40F7-8F6A-7D72323D8E77",
+    "code": "nc100",
+    "manufacturerId": "2687E989-93CF-4463-B408-400F285D7E4B",
+    "name": "Notepad Computer NC100",
+    "wiki": "https://en.wikipedia.org/wiki/Amstrad_NC100"
+  },
+  {
+    "id": "E79990C0-B1B4-4F88-8E57-922E16F33D3D",
+    "code": "nc150",
+    "manufacturerId": "2687E989-93CF-4463-B408-400F285D7E4B",
+    "name": "Notepad Computer NC150",
+    "wiki": "https://en.wikipedia.org/wiki/Amstrad_NC100"
+  },
+  {
+    "id": "CC42B290-57D7-44A9-9EE5-EC157D8940F4",
+    "code": "nc200",
+    "manufacturerId": "2687E989-93CF-4463-B408-400F285D7E4B",
+    "name": "Notepad Computer NC200",
+    "wiki": "https://en.wikipedia.org/wiki/Amstrad_NC100"
+  },
+  {
+    "id": "55E63AF2-FEC0-45AF-A57E-C28F098B3DB5",
+    "code": "apple1",
+    "manufacturerId": "AD5AE2A9-F253-4277-9C2A-0B3B12CBEA6E",
+    "name": "Apple 1",
+    "wiki": ""
+  },
+  {
+    "id": "7FA2BA1D-4055-444D-B322-4E20138C9899",
+    "code": "apple2",
+    "manufacturerId": "AD5AE2A9-F253-4277-9C2A-0B3B12CBEA6E",
+    "name": "Apple II",
+    "wiki": ""
+  },
+  {
+    "id": "C7F16B6F-C3D3-443B-A52D-3E3D1EFCF644",
+    "code": "apple2gs",
+    "manufacturerId": "AD5AE2A9-F253-4277-9C2A-0B3B12CBEA6E",
+    "name": "Apple IIGS",
+    "wiki": ""
+  },
+  {
+    "id": "7495B74A-217F-4DCA-AE60-94FECF1FEE19",
+    "code": "apple3",
+    "manufacturerId": "AD5AE2A9-F253-4277-9C2A-0B3B12CBEA6E",
+    "name": "Apple III",
+    "wiki": ""
+  },
+  {
+    "id": "D13AE9B-E6BA-4BA3-94CD-A67227979A66",
+    "code": "lisa",
+    "manufacturerId": "AD5AE2A9-F253-4277-9C2A-0B3B12CBEA6E",
+    "name": "Lisa",
+    "wiki": ""
+  },
+  {
+    "id": "4C51A03E-C9ED-445D-9BA3-6EF771147278",
+    "code": "macintosh",
+    "manufacturerId": "AD5AE2A9-F253-4277-9C2A-0B3B12CBEA6E",
+    "name": "Macintosh",
+    "wiki": ""
   }
 ]

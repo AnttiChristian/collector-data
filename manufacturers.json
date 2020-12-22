@@ -68,5 +68,10 @@
     "id": "A7D6041C-0A01-4061-A531-1C9F218E04D9",
     "code": "panasonic",
     "name": "Panasonic Corporation"
+  },
+  {
+    "id": "2687E989-93CF-4463-B408-400F285D7E4B",
+    "code": "amstrad",
+    "name": "Amstrad plc"
   }
 ]
