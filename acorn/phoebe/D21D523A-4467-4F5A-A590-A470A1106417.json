@@ -1,0 +1,29 @@
+{
+    "name": "Acorn - Phoebe",
+    "version": "0.0.0.1",
+    "releaseDate": {
+        "year": "",
+        "month": "",
+        "day": ""
+    },
+    "category": {
+        "code": "firmware",
+        "dumps": [
+            {
+                "name": "Acorm Phoebe Firmware v3.80",
+                "blobs": [
+                    {
+                        "status": 1,
+                        "name": "Acorm Phoebe Firmware v3.80",
+                        "size": 4191304,
+                        "hashes": {
+                            "crc": "F6633C9A",
+                            "md5": "e3cc0f75487cca45f9d1084875e69faa",
+                            "sha1": "25032d6724e068d5c6b46da1b6caf1d47a04755b"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
