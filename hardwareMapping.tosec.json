@@ -1,0 +1,1474 @@
+[
+  {
+    "code": "8-Bit Productions Commander X16",
+    "hardwareId": "28D66D50-83A8-437D-84D5-FB8973481E68"
+  },
+  {
+    "code": "Acorn Archimedes",
+    "hardwareId": "73B83C53-83C7-48D2-9901-820578BA8F46"
+  },
+  {
+    "code": "Acorn Atom",
+    "hardwareId": "1AA7FC3D-F418-434E-B726-CB0B51CD2914"
+  },
+  {
+    "code": "Acorn BBC",
+    "hardwareId": "DC55D8EE-2A90-4DE1-BACF-8E6FCE586299"
+  },
+  {
+    "code": "Acorn Electron",
+    "hardwareId": "402A2085-ECF0-47E0-B0E9-A85C8410393F"
+  },
+  {
+    "code": "Acorn FileStore E01",
+    "hardwareId": "E582B056-59A7-42A5-9D0A-96D487633D57"
+  },
+  {
+    "code": "ACT Apricot PC-Xi",
+    "hardwareId": "56933EDD-3563-4C63-A7DD-9E46DDE4838E"
+  },
+  {
+    "code": "Advanced Computer Design PDQ-3",
+    "hardwareId": "189F6876-85E7-4762-B70E-70DE59F61348"
+  },
+  {
+    "code": "AEG Olympia Olytext 20",
+    "hardwareId": "1877D475-5ADC-4569-A9CF-40335C6CC56D"
+  },
+  {
+    "code": "AlphaSmart Pro",
+    "hardwareId": "293E266B-AB46-488A-8187-C49B419AE918"
+  },
+  {
+    "code": "Alspa Computers ALSPA",
+    "hardwareId": "87C0BA39-0122-416C-9ACF-C5F8C179CED3"
+  },
+  {
+    "code": "Altos Computer Systems ACS-186, 586, 686 \u0026 986",
+    "hardwareId": "6FAD543A-7BA2-4E64-8D8C-8456F659D53A"
+  },
+  {
+    "code": "Altos Computer Systems ACS-8000",
+    "hardwareId": "746D2650-EE2F-4BDA-902F-553A0C850F86"
+  },
+  {
+    "code": "Altos Computer Systems ACS-8600",
+    "hardwareId": "A839F119-7F40-4754-953B-8BF87C50765C"
+  },
+  {
+    "code": "Altos Computer Systems Series 5",
+    "hardwareId": "B0397EE7-F32B-4E01-A408-BF71B640B81B"
+  },
+  {
+    "code": "AMPRO Computers LittleBoard Z80",
+    "hardwareId": "D36D7CA4-27F7-4BFA-9FBC-FDBBF33F2D16"
+  },
+  {
+    "code": "Amstrad CPC",
+    "hardwareId": "B9B350E9-C572-4E31-8383-6105399D0D65"
+  },
+  {
+    "code": "Amstrad GX4000",
+    "hardwareId": "866A9E5B-0869-43E2-BFA4-006DEB4818FA"
+  },
+  {
+    "code": "Amstrad NC-100",
+    "hardwareId": "2DCED43C-6766-40F7-8F6A-7D72323D8E77"
+  },
+  {
+    "code": "Amstrad NC-200",
+    "hardwareId": "CC42B290-57D7-44A9-9EE5-EC157D8940F4"
+  },
+  {
+    "code": "Amstrad PCW",
+    "hardwareId": "85A13318-1AA8-425D-B4FE-527C9E4F67DD"
+  },
+  {
+    "code": "Analogue Mega Sg",
+    "hardwareId": "E086527F-4132-4944-8711-7DF102F0B98E"
+  },
+  {
+    "code": "Analogue Nt Mini Noir",
+    "hardwareId": "4754AB4E-2E7F-4D27-AE65-9EFDD57E0157"
+  },
+  {
+    "code": "Analogue Super Nt",
+    "hardwareId": "C2B80C70-9009-4B71-98C9-6D99AA6AA3D5"
+  },
+  {
+    "code": "APF Imagination Machine",
+    "hardwareId": "B5E0E964-51C2-4470-9882-5FFBAA87F22C"
+  },
+  {
+    "code": "APF M-1000",
+    "hardwareId": "B3B9D0E6-A4F3-45C9-83D8-386B6A9849DC"
+  },
+  {
+    "code": "Apple 1",
+    "hardwareId": "55E63AF2-FEC0-45AF-A57E-C28F098B3DB5"
+  },
+  {
+    "code": "Apple II",
+    "hardwareId": "7FA2BA1D-4055-444D-B322-4E20138C9899"
+  },
+  {
+    "code": "Apple IIGS",
+    "hardwareId": "C7F16B6F-C3D3-443B-A52D-3E3D1EFCF644"
+  },
+  {
+    "code": "Apple III",
+    "hardwareId": "7495B74A-217F-4DCA-AE60-94FECF1FEE19"
+  },
+  {
+    "code": "Apple Lisa",
+    "hardwareId": "CD13AE9B-E6BA-4BA3-94CD-A67227979A66"
+  },
+  {
+    "code": "Apple Macintosh",
+    "hardwareId": "4C51A03E-C9ED-445D-9BA3-6EF771147278"
+  },
+  {
+    "code": "Applied Technology MicroBee",
+    "hardwareId": "7AA765FD-1A8A-4315-A57F-011625D260C5"
+  },
+  {
+    "code": "Aquaplus P-ECE",
+    "hardwareId": "A12A0A30-11AD-4526-834F-15902310D9CF"
+  },
+  {
+    "code": "AT\u0026T 3B20",
+    "hardwareId": "8C9149B5-6EEF-4677-8E8A-88D65C022352"
+  },
+  {
+    "code": "Atari 2600 \u0026 VCS",
+    "hardwareId": "7F1D9D7E-651E-4611-A024-02870CEE2F0C"
+  },
+  {
+    "code": "Atari 5200",
+    "hardwareId": "69F6BDBB-68D8-44BA-A418-96F63CC30915"
+  },
+  {
+    "code": "Atari 7800",
+    "hardwareId": "439F5F88-641C-4E9F-A214-2764FB0124C6"
+  },
+  {
+    "code": "Atari 8bit",
+    "hardwareId": "C73B6CE3-FE5E-4393-95D0-50DED7924C60"
+  },
+  {
+    "code": "Atari Jaguar",
+    "hardwareId": "56CAD25C-00F5-4986-A31E-B6BE4ACDB037"
+  },
+  {
+    "code": "Atari Lynx",
+    "hardwareId": "0AFAFE48-86DD-4EEF-BAD6-C8DA4E66CC20"
+  },
+  {
+    "code": "Atari ST",
+    "hardwareId": "2ABF85C4-A68E-427F-AC99-2D4D06E7D670"
+  },
+  {
+    "code": "Bally Professional Arcade \u0026 Astrocade",
+    "hardwareId": "525183E8-5244-433B-9B82-07A9209AC626"
+  },
+  {
+    "code": "Bandai Design Master Denshi Mangajuku",
+    "hardwareId": "1DC20630-7227-4647-8529-FD7CC9446CDE"
+  },
+  {
+    "code": "Bandai Gundam RX-78",
+    "hardwareId": "65430460-D1C6-4334-A47C-9075666975B4"
+  },
+  {
+    "code": "Bandai Super Vision 8000",
+    "hardwareId": "E389ED27-6E1C-4812-8A30-4BB0E6BBF407"
+  },
+  {
+    "code": "Bandai WonderSwan",
+    "hardwareId": "1CB39DFD-183E-42B1-9F44-ABEBFB420657"
+  },
+  {
+    "code": "Bandai WonderSwan Color",
+    "hardwareId": "AAE28999-2C53-49E9-95BA-3383FBC11888"
+  },
+  {
+    "code": "Bernd Huebler \u0026 Klaus-Peter Evert Huebler-Evert-MC",
+    "hardwareId": "8D43074B-5654-4B7A-88D4-74F4AED015FD"
+  },
+  {
+    "code": "Bernd Huebler Huebler-Grafik-MC",
+    "hardwareId": "850B0D5E-418C-4917-9995-DDC7D2844CF3"
+  },
+  {
+    "code": "BGR Computers Excalibur 64",
+    "hardwareId": "1566C08B-D4C8-4A54-A2D4-A998DA7B076E"
+  },
+  {
+    "code": "Bit Corporation BIT 90",
+    "hardwareId": "EC583B6E-9941-49A0-8981-6C356D81436E"
+  },
+  {
+    "code": "Bit Corporation Gamate",
+    "hardwareId": "7DDE041D-7EFE-46C5-BC09-A0BF1CED7323"
+  },
+  {
+    "code": "Bondwell 12",
+    "hardwareId": "891718CF-2117-4715-BAF0-5B038E14A729"
+  },
+  {
+    "code": "Bondwell 14",
+    "hardwareId": "7B161D80-B61A-447E-BCB4-FFF65D81FB2C"
+  },
+  {
+    "code": "Bondwell 2",
+    "hardwareId": "CB908519-8F59-41BA-BBCB-C8E3C6844BBE"
+  },
+  {
+    "code": "Burroughs B1000 Series",
+    "hardwareId": "A56133C0-EBEA-4655-8449-D7681A7EDB7C"
+  },
+  {
+    "code": "Cambridge Computer Z88",
+    "hardwareId": "52DB4FC6-FA3C-4302-BB55-840607DAC974"
+  },
+  {
+    "code": "Camputers Lynx",
+    "hardwareId": "DC2E9DE1-88E6-4995-9181-828CC8BDE487"
+  },
+  {
+    "code": "Casio CFX-9850",
+    "hardwareId": "09ACB78D-5F36-4490-9CE1-FC9A2D2A7FCA"
+  },
+  {
+    "code": "Casio FP-1000 \u0026 FP-1100",
+    "hardwareId": "C5BC50F4-B1A0-4B7F-9356-D81611A405B9"
+  },
+  {
+    "code": "Casio Loopy",
+    "hardwareId": "91ACFEAF-3D8D-4020-8A42-233A89DDACEE"
+  },
+  {
+    "code": "Casio PB-1000",
+    "hardwareId": "70E013AB-9D5D-4CCF-9033-A6D67C2D59B8"
+  },
+  {
+    "code": "Casio PV-1000",
+    "hardwareId": "7F445333-D3E8-4B41-9786-7769059FD880"
+  },
+  {
+    "code": "Casio PV-2000",
+    "hardwareId": "FC958EB6-9573-4F86-9E6E-FF60E65479AF"
+  },
+  {
+    "code": "CCE MC-1000",
+    "hardwareId": "A06D6D5D-F856-43BB-B09A-4A24742F8E58"
+  },
+  {
+    "code": "Coleco ColecoVision",
+    "hardwareId": "8347F623-F5AA-49AE-BD06-6C93EFC4104C"
+  },
+  {
+    "code": "Coleco ColecoVision ADAM",
+    "hardwareId": "7582A801-6D04-4DA0-BDED-0C1A72C08A3F"
+  },
+  {
+    "code": "Commodore Amiga",
+    "hardwareId": "C8BE9D98-00F9-46B3-8176-8E171FCF1557"
+  },
+  {
+    "code": "Commodore BX256-80HP",
+    "hardwareId": "611F55C8-4B75-4F28-8D80-33A135F4A4F7"
+  },
+  {
+    "code": "Commodore C128",
+    "hardwareId": "4CEB9ADE-B7C3-478C-A64D-DA176728ECE4"
+  },
+  {
+    "code": "Commodore C16, C116 \u0026 Plus-4",
+    "hardwareId": "1B38A90B-73F4-46A3-A39E-4190ECC565A6"
+  },
+  {
+    "code": "Commodore C64",
+    "hardwareId": "3E187083-26CD-4CFE-990D-CE5F8F7E12BF"
+  },
+  {
+    "code": "Commodore C64DTV",
+    "hardwareId": "F8835827-A9F9-4B12-8AB1-1B835949454C"
+  },
+  {
+    "code": "Commodore C65",
+    "hardwareId": "D07D27BF-A83C-4AC1-BDF4-7216A89B436C"
+  },
+  {
+    "code": "Commodore MAX Machine \u0026 VIC10",
+    "hardwareId": "76AB1BF8-4A3B-4FBE-9C07-9832A8D9B593"
+  },
+  {
+    "code": "Commodore PET",
+    "hardwareId": "D218D1C2-951F-467B-90F7-3FF0B5F82D64"
+  },
+  {
+    "code": "Commodore VIC20",
+    "hardwareId": "FB06A6A6-8C11-47D2-A43E-79FBB1C542D9"
+  },
+  {
+    "code": "Compugraphic MCS-10",
+    "hardwareId": "3C2E2C66-5153-4FF1-BC63-F9F91FDCD882"
+  },
+  {
+    "code": "COMX COMX-35",
+    "hardwareId": "90EE905B-8C0E-4AA5-89F2-D1FEF8DCCEC0"
+  },
+  {
+    "code": "Control Data Corporation CDC110",
+    "hardwareId": "090B33DE-6B84-42CD-8A1C-134CA83A5BD8"
+  },
+  {
+    "code": "Convergent Technologies AWS NGEN Workstation",
+    "hardwareId": "951885D9-79C1-4706-B3A4-E1D4AFBA82A0"
+  },
+  {
+    "code": "Convergent Technologies MiniFrame",
+    "hardwareId": "EBE00F76-5A1E-4DB9-A17F-71E5E898694E"
+  },
+  {
+    "code": "Creatronic Mega Duck \u0026 Cougar Boy",
+    "hardwareId": "DBA30937-EA7B-460C-8E32-F6038074824F"
+  },
+  {
+    "code": "Cybiko Cybiko",
+    "hardwareId": "86896EB2-FCD4-4FBA-8801-FD7D9528DCA8"
+  },
+  {
+    "code": "Cybiko Xtreme",
+    "hardwareId": "9EA7CBC2-73DB-419E-A4A8-AEE595BD09EA"
+  },
+  {
+    "code": "Data Applications International DAI Personal Computer",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "DEC AlphaServer",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "DEC DECPx AXP 150",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "DEC PDP-1",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "DEC PDP-10",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "DEC PDP-11",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "DEC PDP-12",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "DEC PDP-15",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "DEC PDP-7",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "DEC PDP-8",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "DEC PDP-9",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "DEC Rainbow 100",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "DEC VT-180",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Dick Smith Super-80, Super-80D, Super-80E \u0026 Super-80M",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Dick Smith Super-80R \u0026 Super-80V",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Didact Esselte 100",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Dragon Data Dragon",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Dragon Data Dragon Alpha",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Dragon Data Dragon Beta",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "EACA EG2000 Colour Genie",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Electronics Australia EDUC-8",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Elektronika BK-0010-0011M",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Elektronika BK-0011-411",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Elektronska Industrija Nis PECOM 32 \u0026 64",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Emerson Arcadia 2001",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Enterprise 64 \u0026 128",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Entex Adventure Vision",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Epoch Super Cassette Vision",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Epson PX-4 \u0026 HC-40",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Epson PX-8, HC-88 \u0026 Geneva",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Epson QX-10",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Ericsson Alfaskop System 41",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "ETL Mark II",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "ETL Mark IV",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "ETL Mark IV A",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Exelvision Exeltel",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Exelvision EXL100",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Exidy Sorcerer",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Fairchild VES \u0026 Channel F",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Fairlight CMI Series III",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Ferguson Big Board II",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Fidelity Sensory Chess Challenger",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Front Fareast Magic Drive",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Fuji Photo Film FUJIC",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Fujitsu FM Towns",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Fujitsu FM-7",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Fujitsu FM77-AV",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Fukutake Publishing StudyBox",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Funtech Super A\u0027can",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Galaksija Galaksija",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Galaksija Galaksija Plus",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Game Park GP32",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "GCE Vectrex",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Gould K105-D Logic Analyzer",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Gould K115 Logic Analyzer",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Gould K450 Logic Analyzer",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Grundy NewBrain",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Hanimex Pencil II",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Hartung Game Master",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Hawthorne Technology TinyGiant 68000 Single Board Computer",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Hewlett-Packard 16500A",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Hewlett-Packard 4951C \u0026 4952A",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Hewlett-Packard HP48",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Hewlett-Packard HP49",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Hewlett-Packard HP85",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Hewlett-Packard HP9835A-B",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Hitachi S1",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "HomeLab BraiLab",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "HomeLab HomeLab",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "IBM 1620",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "IBM PC Compatibles",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "IBM PCjr",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "IBM System-360",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Infocom Z-Machine",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Intec Interact",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Interact Family Computer",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Jupiter Cantab Jupiter Ace",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Kaypro II",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Keio University K-1",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Lambda Electronics Lambda 8300",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "LeapFrog LeapPad",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "LeapFrog Leapster",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Luxor ABC 1600",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Luxor ABC 80",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Luxor ABC 800",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Luxor ABC 806",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Luxor Video Entertainment System",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Magnavox Odyssey2",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Manfred Kramer Kramer-MC",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Matra Hachette Alice 32",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Matra Hachette Alice 90",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Matsushita National JR 200",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Mattel Aquarius",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Mattel Intellivision",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Mattel Intellivision ECS",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Mattel Juice Box",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Megatel Quark",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Memotech MTX",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "MGT Sam Coupe",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Micro Craft Dimension 68000",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Microkey Primo",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "MITS Altair 8800",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Mitsubishi Multi 8",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Motorola EXORciser",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Mr. Isizu Z80 TV Game System",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "MSX MSX",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "MSX MSX2",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "MSX MSX2\u002B",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "MSX TurboR",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Nascom I \u0026 II",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "NCR Decision Mate V",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "NEC Advanced Personal Computer",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "NEC PC-6001",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "NEC PC-8001",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "NEC PC-8201",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "NEC PC-8801",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "NEC PC-88VA",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "NEC PC-9801",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "NEC PC-9821",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "NEC PC-Engine \u0026 TurboGrafx-16",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "NEC SuperGrafx",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Nichibutsu My Vision",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Nintendo 64",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Nintendo 64DD",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Nintendo DS",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Nintendo Famicom \u0026 Entertainment System",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Nintendo Famicom Disk System",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Nintendo Game Boy",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Nintendo Game Boy Advance",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Nintendo Game Boy Color",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Nintendo Play-Yan",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Nintendo Pokemon Mini",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Nintendo Super Famicom \u0026 Super Entertainment System",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Nintendo Virtual Boy",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "NorthStar Advantage",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "NorthStar Horizon",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Nuclear Data ND4410 \u0026 ND4420",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "OCC Osborne 1 \u0026 Osborne Executive",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Oh! MZ S-OS",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Ohio Scientific Challenger 1P",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Olivetti M20",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "OpenPandora Pandora",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Otrona Attache",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Patisonic Aleste 520EX",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "PEL Varazdin Orao",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Peters Plus Sprinter",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Philips P2000",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Philips VG 5000",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Philips Videopac\u002B",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Pioneer LaserActive",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "PTC Sol Terminal Computer SOL-20",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Radica Arcade Legends \u0026 Play TV Legends",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Radio-86RK Apogej BK-01",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Radio-86RK Mikro-80",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Radio-86RK Mikrosha",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Radio-86RK Partner-01.01",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Radio-86RK Radio-86RK",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Radio-86RK YuT-88",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Raytheon 704",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "RCA Chip-8",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "RCA Microboard Computer Development System",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "RCA Studio II",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "RCA Superchip",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Regnecentralen RC 700",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Retroleum V6Z80P\u002B",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "RM Nimbus PC",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Robotron BIC A5105",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Robotron HC900, KC85 2, KC85 3 \u0026 KC85 4",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Robotron KC Compact",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Robotron Z1013",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Robotron Z9001 \u0026 KC85 1",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Rockwell AIM65",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "SABA Videoplay",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Samsung SPC-1000",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sanyo MBC-550 \u0026 555",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sega 32X",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sega Advanced Pico Beena",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sega Computer 3000",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sega Game 1000",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sega Game Gear",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sega Mark III \u0026 Master System",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sega Mega Drive \u0026 Genesis",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sega Mega-CD \u0026 Sega CD",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sega Pico",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sega Super Control Station",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sega Visual Memory System",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sega WonderMega",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sharp MZ-2500",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sharp MZ-700",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sharp MZ-800 \u0026 MZ-1500",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sharp PC-G850, PC-G815 \u0026 E200",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sharp Wizard OZ-700 Series",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sharp X1",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sharp X1 Turbo",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sharp X68000",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sinclair QL",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sinclair ZX Spectrum",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sinclair ZX80",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sinclair ZX81",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "SME Systems Aussie Byte II",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "SNK Neo-Geo Pocket",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "SNK Neo-Geo Pocket Color",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sony PocketStation",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sony SMC-777",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Sord M5",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Spectravideo SVI-318 \u0026 SVI-328",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Tandy Radio Shack TRS-80 Color Computer",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Tandy Radio Shack TRS-80 MC-10",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Tandy Radio Shack TRS-80 Model 100",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Tandy Radio Shack TRS-80 Model 4",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Tandy Radio Shack TRS-80 Model I",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Tandy Radio Shack TRS-80 Model III",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Tangerine Microtan 65",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Tangerine Oric Telestrat",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Tangerine Oric-1 \u0026 Oric Atmos",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Tatung Einstein TC-01",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Technosys Aamber Pegasus",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Tektronix 405x",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Tektronix 4100 Series",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Tektronix 4400 Series",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Telcon Zorba",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "TeleVideo Systems TS-802 \u0026 TS-802H",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "TeleVideo Systems TS-803, TS-803H \u0026 TPC-1",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "TeleVideo Systems TS-806",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Telmac TMC-600",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Terak 8510A \u0026 8600",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Tesla Ondra Vili",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Tesla PMD 85",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Texas Instruments CC-40",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Texas Instruments TI-73",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Texas Instruments TI-80",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Texas Instruments TI-81",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Texas Instruments TI-82",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Texas Instruments TI-83",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Texas Instruments TI-85",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Texas Instruments TI-86",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Texas Instruments TI-89",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Texas Instruments TI-92",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Texas Instruments TI-99 4A",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Thomson MO5",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Thomson MO6",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Thomson TO7",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Thomson TO8, TO8D, TO9, TO9\u002B",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Tiger Electronics Game.com",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Tiger Electronics K28 Talking Learning Computer",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Tiki Data Kontiki-100 \u0026 Tiki-100",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "TimeTop GameKing",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "TimeTop GameKing 3",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Timex Sinclair TS-2068",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Tomy Tutor \u0026 Pyuuta",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Toshiba Pasopia",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Toshiba Pasopia 7",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Triumph-Adler Alphatronic PC",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "TRQ Video Computer H-21",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Tsukuda Original Othello Multivision",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "UNIVAC Series 90",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "University of Cambridge EDSAC",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "University of Tokyo PC-1",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "USSR Vector-06C",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "VEB Mikroelektronik Erfurt Chess-Master Diamond",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Videoton TV-Computer",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Visual Technology Visual 1050",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "VTech Genius",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "VTech Genius Junior Movie",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "VTech Genius Leader 2000",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "VTech Genius Leader 6000SL",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "VTech Genius Leader Color",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "VTech Laser 200",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "VTech Laser 2001 \u0026 CreatiVision",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Vtech Laser 3000 \u0026 Dick Smith CAT",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "VTech Laser 310",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "VTech Laser 350, 500, 700 \u0026 750",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Wang VS",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Watara Supervision",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Xerox 1108",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Xerox 1186",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Xerox 6085",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Xerox 820",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Xerox 820-II",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Xerox 860",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Yamaha Copera",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "code": "Zilog MCZ-2",
+    "hardwareId": "00000000-0000-0000-0000-000000000000"
+  }
+]

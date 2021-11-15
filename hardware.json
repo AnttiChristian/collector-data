@@ -1,5 +1,383 @@
 [
   {
+    "id": "9EA7CBC2-73DB-419E-A4A8-AEE595BD09EA",
+    "manufacturerId": "A9834EEC-44FD-477E-A450-CDB9A34B7B3A",
+    "code": "extreme",
+    "name": "Extreme",
+    "wiki": ""
+  },
+  {
+    "id": "86896EB2-FCD4-4FBA-8801-FD7D9528DCA8",
+    "manufacturerId": "A9834EEC-44FD-477E-A450-CDB9A34B7B3A",
+    "code": "cybiko",
+    "name": "Cybiko",
+    "wiki": ""
+  },
+  {
+    "id": "DBA30937-EA7B-460C-8E32-F6038074824F",
+    "manufacturerId": "9F0B9B95-24B1-4E60-A1D9-65BB9EF0B142",
+    "code": "megaduck",
+    "name": "Mega Duck",
+    "wiki": ""
+  },
+  {
+    "id": "EBE00F76-5A1E-4DB9-A17F-71E5E898694E",
+    "manufacturerId": "16C676BD-120C-493E-8014-235C925AB89E",
+    "code": "minifram",
+    "name": "MiniFrame",
+    "wiki": ""
+  },
+  {
+    "id": "951885D9-79C1-4706-B3A4-E1D4AFBA82A0",
+    "manufacturerId": "16C676BD-120C-493E-8014-235C925AB89E",
+    "code": "awsngen",
+    "name": "AWS NGEN Workstation",
+    "wiki": ""
+  },
+  {
+    "id": "090B33DE-6B84-42CD-8A1C-134CA83A5BD8",
+    "manufacturerId": "A18F40AC-8767-4CA8-927B-939B1A9F58D1",
+    "code": "cdc110",
+    "name": "CDC110",
+    "wiki": ""
+  },
+  {
+    "id": "90EE905B-8C0E-4AA5-89F2-D1FEF8DCCEC0",
+    "manufacturerId": "1F0055F1-C367-4DE9-BBA8-6175063CC387",
+    "code": "comx35",
+    "name": "COMX-35",
+    "wiki": ""
+  },
+  {
+    "id": "3C2E2C66-5153-4FF1-BC63-F9F91FDCD882",
+    "manufacturerId": "D6E06B89-0C54-4AF0-AAE2-05205AA1A6AE",
+    "code": "mcs10",
+    "name": "Compugraphic MCS-10",
+    "wiki": ""
+  },
+  {
+    "id": "52DB4FC6-FA3C-4302-BB55-840607DAC974",
+    "manufacturerId": "200411A3-3026-4375-9FF2-6A5BD4C0829E",
+    "code": "cmpz88",
+    "name": "Cambridge Z88",
+    "wiki": ""
+  },
+  {
+    "id": "DC2E9DE1-88E6-4995-9181-828CC8BDE487",
+    "manufacturerId": "0BBAB152-0AA5-4AD8-A237-8A41519C1DED",
+    "code": "clynx",
+    "name": "camputers Lynx",
+    "wiki": ""
+  },
+  {
+    "id": "09ACB78D-5F36-4490-9CE1-FC9A2D2A7FCA",
+    "manufacturerId": "57B0B01B-46DE-469B-855A-35CEA73EB6F3",
+    "code": "cfx950",
+    "name": "CFX-9850",
+    "wiki": ""
+  },
+  {
+    "id": "C5BC50F4-B1A0-4B7F-9356-D81611A405B9",
+    "manufacturerId": "57B0B01B-46DE-469B-855A-35CEA73EB6F3",
+    "code": "fp1x00",
+    "name": "FP-1000 \u0026 FP-1100",
+    "wiki": ""
+  },
+  {
+    "id": "91ACFEAF-3D8D-4020-8A42-233A89DDACEE",
+    "manufacturerId": "57B0B01B-46DE-469B-855A-35CEA73EB6F3",
+    "code": "loopy",
+    "name": "Loopy",
+    "wiki": ""
+  },
+  {
+    "id": "70E013AB-9D5D-4CCF-9033-A6D67C2D59B8",
+    "manufacturerId": "57B0B01B-46DE-469B-855A-35CEA73EB6F3",
+    "code": "pb1000",
+    "name": "PB-1000",
+    "wiki": ""
+  },
+  {
+    "id": "7F445333-D3E8-4B41-9786-7769059FD880",
+    "manufacturerId": "57B0B01B-46DE-469B-855A-35CEA73EB6F3",
+    "code": "pv1000",
+    "name": "PV-1000",
+    "wiki": ""
+  },
+  {
+    "id": "FC958EB6-9573-4F86-9E6E-FF60E65479AF",
+    "manufacturerId": "57B0B01B-46DE-469B-855A-35CEA73EB6F3",
+    "code": "pv2000",
+    "name": "PV-2000",
+    "wiki": ""
+  },
+  {
+    "id": "A06D6D5D-F856-43BB-B09A-4A24742F8E58",
+    "manufacturerId": "E9A465D3-AD25-43F4-8BDE-98C54991B6B1",
+    "code": "mc1000",
+    "name": "CCE MC-1000",
+    "wiki": ""
+  },
+  {
+    "id": "8347F623-F5AA-49AE-BD06-6C93EFC4104C",
+    "manufacturerId": "CA97B108-95A3-4C4C-AAEF-46ACFA6257C1",
+    "code": "colvisn",
+    "name": "Colecovision",
+    "wiki": ""
+  },
+  {
+    "id": "7582A801-6D04-4DA0-BDED-0C1A72C08A3F",
+    "manufacturerId": "CA97B108-95A3-4C4C-AAEF-46ACFA6257C1",
+    "code": "coladam",
+    "name": "Colecovision ADAM",
+    "wiki": ""
+  },
+  {
+    "id": "611F55C8-4B75-4F28-8D80-33A135F4A4F7",
+    "manufacturerId": "C4A7C63A-7625-4ECB-B619-8F2A2D685B8E",
+    "code": "cbx256",
+    "name": "Commodore BX256-80HP",
+    "wiki": ""
+  },
+  {
+    "id": "A56133C0-EBEA-4655-8449-D7681A7EDB7C",
+    "manufacturerId": "78E6B1C6-9F00-4638-B87D-D809073CC560",
+    "code": "b1000ser",
+    "name": "B1000 Series",
+    "wiki": ""
+  },
+  {
+    "id": "891718CF-2117-4715-BAF0-5B038E14A729",
+    "manufacturerId": "40F38B8A-9F77-4B4D-9215-A9AE0679EE94",
+    "code": "bondwl12",
+    "name": "Bondwell 12",
+    "wiki": ""
+  },
+  {
+    "id": "7B161D80-B61A-447E-BCB4-FFF65D81FB2C",
+    "manufacturerId": "40F38B8A-9F77-4B4D-9215-A9AE0679EE94",
+    "code": "bondwl14",
+    "name": "Bondwell 14",
+    "wiki": ""
+  },
+  {
+    "id": "CB908519-8F59-41BA-BBCB-C8E3C6844BBE",
+    "manufacturerId": "40F38B8A-9F77-4B4D-9215-A9AE0679EE94",
+    "code": "bondwl2",
+    "name": "Bondwell 2",
+    "wiki": ""
+  },
+  {
+    "id": "EC583B6E-9941-49A0-8981-6C356D81436E",
+    "manufacturerId": "24D7744F-6D8F-4AA4-AAC9-7B2A95EE9272",
+    "code": "bit90",
+    "name": "BIT 90",
+    "wiki": ""
+  },
+  {
+    "id": "7DDE041D-7EFE-46C5-BC09-A0BF1CED7323",
+    "manufacturerId": "24D7744F-6D8F-4AA4-AAC9-7B2A95EE9272",
+    "code": "gamate",
+    "name": "Gamate",
+    "wiki": ""
+  },
+  {
+    "id": "1566C08B-D4C8-4A54-A2D4-A998DA7B076E",
+    "manufacturerId": "4F22F29D-68F6-463D-96D9-EBE9E4B05A90",
+    "code": "excalb64",
+    "name": "Excalibur 64",
+    "wiki": ""
+  },
+  {
+    "id": "8D43074B-5654-4B7A-88D4-74F4AED015FD",
+    "manufacturerId": "86C0D5D9-36CC-4FBC-A247-C46F04EB7F18",
+    "code": "huevermc",
+    "name": "Huebler-Evert-MC",
+    "wiki": ""
+  },
+  {
+    "id": "850B0D5E-418C-4917-9995-DDC7D2844CF3",
+    "manufacturerId": "86C0D5D9-36CC-4FBC-A247-C46F04EB7F18",
+    "code": "grafikmc",
+    "name": "Huebler-Grafik-MC",
+    "wiki": ""
+  },
+  {
+    "id": "525183E8-5244-433B-9B82-07A9209AC626",
+    "manufacturerId": "DA464D45-0ED5-4B70-A40F-F8ECC086E418",
+    "code": "astrcade",
+    "name": "Bally Astrocade",
+    "wiki": ""
+  },
+  {
+    "id": "1DC20630-7227-4647-8529-FD7CC9446CDE",
+    "manufacturerId": "9F136629-95EB-46D4-A8DE-01D68E8B2D05",
+    "code": "desmastr",
+    "name": "Design Master Denshi Mangajuku",
+    "wiki": ""
+  },
+  {
+    "id": "65430460-D1C6-4334-A47C-9075666975B4",
+    "manufacturerId": "9F136629-95EB-46D4-A8DE-01D68E8B2D05",
+    "code": "gundrx78",
+    "name": "Gundam RX-78",
+    "wiki": ""
+  },
+  {
+    "id": "E389ED27-6E1C-4812-8A30-4BB0E6BBF407",
+    "manufacturerId": "9F136629-95EB-46D4-A8DE-01D68E8B2D05",
+    "code": "svisio8k",
+    "name": "Super Vision 8000",
+    "wiki": ""
+  },
+  {
+    "id": "1CB39DFD-183E-42B1-9F44-ABEBFB420657",
+    "manufacturerId": "9F136629-95EB-46D4-A8DE-01D68E8B2D05",
+    "code": "wsvan",
+    "name": "WonderSwan",
+    "wiki": ""
+  },
+  {
+    "id": "AAE28999-2C53-49E9-95BA-3383FBC11888",
+    "manufacturerId": "9F136629-95EB-46D4-A8DE-01D68E8B2D05",
+    "code": "wsvanc",
+    "name": "WonderSwan Color",
+    "wiki": ""
+  },
+  {
+    "id": "8C9149B5-6EEF-4677-8E8A-88D65C022352",
+    "manufacturerId": "961E8BAD-A785-434D-A9B4-523B9371566F",
+    "code": "att3b20",
+    "name": "AT\u0026T 3B20",
+    "wiki": ""
+  },
+  {
+    "id": "A12A0A30-11AD-4526-834F-15902310D9CF",
+    "manufacturerId": "40046690-8AB9-4B9B-8164-21707BA2F81F",
+    "code": "pece",
+    "name": "P-ECE",
+    "wiki": ""
+  },
+  {
+    "id": "7AA765FD-1A8A-4315-A57F-011625D260C5",
+    "manufacturerId": "0B2DC4E7-95BC-42CF-9625-C77804D10871",
+    "code": "microbee",
+    "name": "MicroBee",
+    "wiki": ""
+  },
+  {
+    "id": "E086527F-4132-4944-8711-7DF102F0B98E",
+    "manufacturerId": "AA4FEDFD-11EC-4BF9-8714-086AD2F701DC",
+    "code": "megasg",
+    "name": "Analogue Mega Sg",
+    "wiki": ""
+  },
+  {
+    "id": "4754AB4E-2E7F-4D27-AE65-9EFDD57E0157",
+    "manufacturerId": "AA4FEDFD-11EC-4BF9-8714-086AD2F701DC",
+    "code": "minintn",
+    "name": "Analogue Nt Mini Noir",
+    "wiki": ""
+  },
+  {
+    "id": "C2B80C70-9009-4B71-98C9-6D99AA6AA3D5",
+    "manufacturerId": "AA4FEDFD-11EC-4BF9-8714-086AD2F701DC",
+    "code": "supernt",
+    "name": "Analogue Super Nt",
+    "wiki": ""
+  },
+  {
+    "id": "B5E0E964-51C2-4470-9882-5FFBAA87F22C",
+    "manufacturerId": "C0F4A10C-6825-4BEC-8F0F-B2BEB9E6E560",
+    "code": "imaginm",
+    "name": "APF Imagination Machine",
+    "wiki": ""
+  },
+  {
+    "id": "B3B9D0E6-A4F3-45C9-83D8-386B6A9849DC",
+    "manufacturerId": "C0F4A10C-6825-4BEC-8F0F-B2BEB9E6E560",
+    "code": "apfm1000",
+    "name": "APF M-1000",
+    "wiki": ""
+  },
+  {
+    "id": "D36D7CA4-27F7-4BFA-9FBC-FDBBF33F2D16",
+    "manufacturerId": "DBEB6C4C-0D6C-4779-B376-E7C8130BA717",
+    "code": "littlz80",
+    "name": "Littleboard Z80",
+    "wiki": ""
+  },
+  {
+    "id": "B0397EE7-F32B-4E01-A408-BF71B640B81B",
+    "manufacturerId": "3EEC7E1E-C60E-45E1-872F-A7DD99BC7D9B",
+    "code": "seriesf",
+    "name": "Series 5",
+    "wiki": ""
+  },
+  {
+    "id": "A839F119-7F40-4754-953B-8BF87C50765C",
+    "manufacturerId": "3EEC7E1E-C60E-45E1-872F-A7DD99BC7D9B",
+    "code": "acs8600",
+    "name": "ACS-8600",
+    "wiki": ""
+  },
+  {
+    "id": "746D2650-EE2F-4BDA-902F-553A0C850F86",
+    "manufacturerId": "3EEC7E1E-C60E-45E1-872F-A7DD99BC7D9B",
+    "code": "acs8000",
+    "name": "ACS-8000",
+    "wiki": ""
+  },
+  {
+    "id": "6FAD543A-7BA2-4E64-8D8C-8456F659D53A",
+    "manufacturerId": "3EEC7E1E-C60E-45E1-872F-A7DD99BC7D9B",
+    "code": "acsx86",
+    "name": "ACS-186, 586, 686 \u0026 986",
+    "wiki": ""
+  },
+  {
+    "id": "87C0BA39-0122-416C-9ACF-C5F8C179CED3",
+    "manufacturerId": "A5B0ED2C-B73D-4B3B-8B38-BF283354D2B8",
+    "code": "alspa",
+    "name": "Alspa Computers ALSPA",
+    "wiki": ""
+  },
+  {
+    "id": "293E266B-AB46-488A-8187-C49B419AE918",
+    "manufacturerId": "E1E5FC89-EBF1-4D13-A5F2-0FEA2AB19114",
+    "code": "alphapro",
+    "name": "AlphaSmart Pro",
+    "wiki": ""
+  },
+  {
+    "id": "1877D475-5ADC-4569-A9CF-40335C6CC56D",
+    "manufacturerId": "D640B7DF-E9F3-4060-8264-1C5E1CD4F080",
+    "code": "olytxt20",
+    "name": "Olytext 20",
+    "wiki": ""
+  },
+  {
+    "id": "189F6876-85E7-4762-B70E-70DE59F61348",
+    "manufacturerId": "0C0E8EA1-D6B7-4B67-B855-89BC3F930DF2",
+    "code": "pdq3",
+    "name": "PDQ-3",
+    "wiki": ""
+  },
+  {
+    "id": "56933EDD-3563-4C63-A7DD-9E46DDE4838E",
+    "manufacturerId": "4D1E1528-CE03-48DC-995C-CD2B9C9EB0A5",
+    "code": "pcxi",
+    "name": "Apricot PC-Xi",
+    "wiki": ""
+  },
+  {
+    "id": "28D66D50-83A8-437D-84D5-FB8973481E68",
+    "manufacturerId": "726FDCA6-4FFF-409F-945D-96AE79983FE7",
+    "code": "cmdx16",
+    "name": "Commander X16",
+    "wiki": "https://www.commanderx16.com/forum/index.php?/home/"
+  },
+  {
     "id": "4FDAF35E-2B54-46A8-A92E-27C39086B3FC",
     "manufacturerId": "7A31BDCE-A1B5-4F8C-B2DB-20986FC747F2",
     "code": "phoebe",
@@ -254,6 +632,54 @@
     "name": "Amiga family"
   },
   {
+    "id": "3E187083-26CD-4CFE-990D-CE5F8F7E12BF",
+    "code": "cc64",
+    "manufacturerId": "C4A7C63A-7625-4ECB-B619-8F2A2D685B8E",
+    "name": "Commodore C64"
+  },
+  {
+    "id": "4CEB9ADE-B7C3-478C-A64D-DA176728ECE4",
+    "code": "cc128",
+    "manufacturerId": "C4A7C63A-7625-4ECB-B619-8F2A2D685B8E",
+    "name": "Commodore C128"
+  },
+  {
+    "id": "1B38A90B-73F4-46A3-A39E-4190ECC565A6",
+    "code": "cc16",
+    "manufacturerId": "C4A7C63A-7625-4ECB-B619-8F2A2D685B8E",
+    "name": "Commodore C16, C116, Plus 4"
+  },
+  {
+    "id": "D07D27BF-A83C-4AC1-BDF4-7216A89B436C",
+    "code": "cc65",
+    "manufacturerId": "C4A7C63A-7625-4ECB-B619-8F2A2D685B8E",
+    "name": "Commodore C65"
+  },
+  {
+    "id": "76AB1BF8-4A3B-4FBE-9C07-9832A8D9B593",
+    "code": "vic10max",
+    "manufacturerId": "C4A7C63A-7625-4ECB-B619-8F2A2D685B8E",
+    "name": "Commodore MAX Machine \u0026 VIC10"
+  },
+  {
+    "id": "D218D1C2-951F-467B-90F7-3FF0B5F82D64",
+    "code": "commpet",
+    "manufacturerId": "C4A7C63A-7625-4ECB-B619-8F2A2D685B8E",
+    "name": "Commodore PET"
+  },
+  {
+    "id": "FB06A6A6-8C11-47D2-A43E-79FBB1C542D9",
+    "code": "comvic20",
+    "manufacturerId": "C4A7C63A-7625-4ECB-B619-8F2A2D685B8E",
+    "name": "Commodore VIC20"
+  },
+  {
+    "id": "F8835827-A9F9-4B12-8AB1-1B835949454C",
+    "code": "c64dtv",
+    "manufacturerId": "C4A7C63A-7625-4ECB-B619-8F2A2D685B8E",
+    "name": "Commodore C64DTV"
+  },
+  {
     "id": "D0E209C7-E468-4EF4-9667-301A3EB4FFDD",
     "code": "amicdtv",
     "manufacturerId": "C4A7C63A-7625-4ECB-B619-8F2A2D685B8E",
@@ -357,5 +783,12 @@
     "manufacturerId": "2687E989-93CF-4463-B408-400F285D7E4B",
     "name": "Notepad Computer NC200",
     "wiki": "https://en.wikipedia.org/wiki/Amstrad_NC100"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "code": "unknown",
+    "manufacturerId": "00000000-0000-0000-0000-000000000000",
+    "name": "Unknown",
+    "wiki": ""
   }
 ]

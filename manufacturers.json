@@ -1,5 +1,175 @@
 [
   {
+    "id": "A9834EEC-44FD-477E-A450-CDB9A34B7B3A",
+    "code": "cybiko",
+    "name": "Cybiko Inc."
+  },
+  {
+    "id": "9F0B9B95-24B1-4E60-A1D9-65BB9EF0B142",
+    "code": "creatron",
+    "name": "Creatronic"
+  },
+  {
+    "id": "16C676BD-120C-493E-8014-235C925AB89E",
+    "code": "convtech",
+    "name": "Convergent Technologies"
+  },
+  {
+    "id": "A18F40AC-8767-4CA8-927B-939B1A9F58D1",
+    "code": "codataco",
+    "name": "Control Data Corporation"
+  },
+  {
+    "id": "1F0055F1-C367-4DE9-BBA8-6175063CC387",
+    "code": "comx",
+    "name": "COMX World Operations Ltd"
+  },
+  {
+    "id": "D6E06B89-0C54-4AF0-AAE2-05205AA1A6AE",
+    "code": "cmpgraph",
+    "name": "Compugraphic Corporation"
+  },
+  {
+    "id": "200411A3-3026-4375-9FF2-6A5BD4C0829E",
+    "code": "cambrdge",
+    "name": "Cambridge Computer"
+  },
+  {
+    "id": "0BBAB152-0AA5-4AD8-A237-8A41519C1DED",
+    "code": "camputer",
+    "name": "Camputers"
+  },
+  {
+    "id": "57B0B01B-46DE-469B-855A-35CEA73EB6F3",
+    "code": "casiocom",
+    "name": "Casio Computer Co., Ltd."
+  },
+  {
+    "id": "E9A465D3-AD25-43F4-8BDE-98C54991B6B1",
+    "code": "cceletrc",
+    "name": "Com\u00E9rcio de Componentes Eletr\u00F4nicos"
+  },
+  {
+    "id": "CA97B108-95A3-4C4C-AAEF-46ACFA6257C1",
+    "code": "coleco",
+    "name": "Coleco Industries, Inc."
+  },
+  {
+    "id": "78E6B1C6-9F00-4638-B87D-D809073CC560",
+    "code": "buroughs",
+    "name": "Burroughs Corporation"
+  },
+  {
+    "id": "40F38B8A-9F77-4B4D-9215-A9AE0679EE94",
+    "code": "bondwell",
+    "name": "Bondwell"
+  },
+  {
+    "id": "24D7744F-6D8F-4AA4-AAC9-7B2A95EE9272",
+    "code": "bitcorp",
+    "name": "Bit Corporation"
+  },
+  {
+    "id": "4F22F29D-68F6-463D-96D9-EBE9E4B05A90",
+    "code": "bgrcomp",
+    "name": "BGR Computer PL"
+  },
+  {
+    "id": "86C0D5D9-36CC-4FBC-A247-C46F04EB7F18",
+    "code": "miverlag",
+    "name": "Milit\u00E4rverlag DDR"
+  },
+  {
+    "id": "9F136629-95EB-46D4-A8DE-01D68E8B2D05",
+    "code": "bandai",
+    "name": "Bandai Co., Ltd."
+  },
+  {
+    "id": "DA464D45-0ED5-4B70-A40F-F8ECC086E418",
+    "code": "ballyman",
+    "name": "Bally Manufacturing"
+  },
+  {
+    "id": "726FDCA6-4FFF-409F-945D-96AE79983FE7",
+    "code": "8bitprod",
+    "name": "8-Bit Productions LLC"
+  },
+  {
+    "id": "7A31BDCE-A1B5-4F8C-B2DB-20986FC747F2",
+    "code": "acorn",
+    "name": "Acorn Computers Ltd."
+  },
+  {
+    "id": "4D1E1528-CE03-48DC-995C-CD2B9C9EB0A5",
+    "code": "apricot",
+    "name": "Apricot Computers, Ltd."
+  },
+  {
+    "id": "0C0E8EA1-D6B7-4B67-B855-89BC3F930DF2",
+    "code": "advcode",
+    "name": "Advance Computer Design"
+  },
+  {
+    "id": "D640B7DF-E9F3-4060-8264-1C5E1CD4F080",
+    "code": "aegolymp",
+    "name": "AEG Olympia-Werke AG"
+  },
+  {
+    "id": "E1E5FC89-EBF1-4D13-A5F2-0FEA2AB19114",
+    "code": "alphasmr",
+    "name": "AlphaSmart, Inc."
+  },
+  {
+    "id": "A5B0ED2C-B73D-4B3B-8B38-BF283354D2B8",
+    "code": "alspa",
+    "name": "Alspa Computer Inc."
+  },
+  {
+    "id": "3EEC7E1E-C60E-45E1-872F-A7DD99BC7D9B",
+    "code": "acs",
+    "name": "Altos Computer Systems"
+  },
+  {
+    "id": "DBEB6C4C-0D6C-4779-B376-E7C8130BA717",
+    "code": "ampro",
+    "name": "Ampro Incorporated"
+  },
+  {
+    "id": "AA4FEDFD-11EC-4BF9-8714-086AD2F701DC",
+    "code": "analogue",
+    "name": "Analogue"
+  },
+  {
+    "id": "C0F4A10C-6825-4BEC-8F0F-B2BEB9E6E560",
+    "code": "apfelec",
+    "name": "APF Electronics Inc."
+  },
+  {
+    "id": "AD5AE2A9-F253-4277-9C2A-0B3B12CBEA6E",
+    "code": "apple",
+    "name": "Apple Computer Company"
+  },
+  {
+    "id": "0B2DC4E7-95BC-42CF-9625-C77804D10871",
+    "code": "apliedtc",
+    "name": "Applied Technology"
+  },
+  {
+    "id": "40046690-8AB9-4B9B-8164-21707BA2F81F",
+    "code": "aquaplus",
+    "name": "Aquaplus"
+  },
+  {
+    "id": "961E8BAD-A785-434D-A9B4-523B9371566F",
+    "code": "atandt",
+    "name": "AT\u0026T Inc."
+  },
+  {
+    "id": "94F9D435-19D6-48BD-81BB-32F5F68F02B3",
+    "code": "atari",
+    "name": "Atari, Inc."
+  },
+  {
     "id": "0DE7CB62-6B3C-442B-BF97-99D653B9B4B7",
     "code": "mgt",
     "name": "Miles Gordon Technology"
@@ -10,26 +180,11 @@
     "name": "Sony Computer Entertainment"
   },
   {
-    "id": "94F9D435-19D6-48BD-81BB-32F5F68F02B3",
-    "code": "atari",
-    "name": "Atari, Inc."
-  },
-  {
-    "id": "AD5AE2A9-F253-4277-9C2A-0B3B12CBEA6E",
-    "code": "apple",
-    "name": "Apple Computer Company"
-  },
-  {
     "id": "C4A7C63A-7625-4ECB-B619-8F2A2D685B8E",
     "code": "commodore",
     "name": "Commodore International"
   },
-  {
-    "id": "7A31BDCE-A1B5-4F8C-B2DB-20986FC747F2",
-    "code": "acorn",
-    "name": "Acorn Computers Ltd."
-  },
-  {
+    {
     "id": "0B702EDB-E790-483C-9C7B-A2AF34A186D6",
     "code": "capcom",
     "name": "Capcom Co., Ltd."
@@ -68,5 +223,10 @@
     "id": "2687E989-93CF-4463-B408-400F285D7E4B",
     "code": "amstrad",
     "name": "Amstrad plc"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "code": "unknown",
+    "name": "Unknown"
   }
 ]
