@@ -1,4 +1,3 @@
 **/.*
-
-
+hardwareMapping.*.json
 !.gitignore
