@@ -1,5 +1,264 @@
 [
   {
+    "id": "FA363D92-6383-4744-88A0-DE6AEA4C73DF",
+    "manufacturerId": "F6416980-637B-421C-A465-7EC00C6697FB",
+    "code": "sorcerer",
+    "name": "Sorcerer",
+    "wiki": ""
+  },
+  {
+    "id": "C3AF492B-122C-4B24-9330-ECB55D81B22A",
+    "manufacturerId": "DEC0218D-7040-4034-9C6C-6522DCEB1589",
+    "code": "exeltel",
+    "name": "Exeltel",
+    "wiki": ""
+  },
+  {
+    "id": "2DF13A01-A58B-4238-BF40-C6F5B5EEA999",
+    "manufacturerId": "DEC0218D-7040-4034-9C6C-6522DCEB1589",
+    "code": "exl100",
+    "name": "EXL100",
+    "wiki": ""
+  },
+  {
+    "id": "0801737D-3473-4F66-8B31-0A140F621194",
+    "manufacturerId": "F5927E96-7E43-4A7C-BCFF-572DE56E9333",
+    "code": "markii",
+    "name": "ETL Mark II",
+    "wiki": ""
+  },
+  {
+    "id": "BAD42D69-78FB-40E6-8B84-E41436F5C2AD",
+    "manufacturerId": "F5927E96-7E43-4A7C-BCFF-572DE56E9333",
+    "code": "markiv",
+    "name": "ETL Mark IV",
+    "wiki": ""
+  },
+  {
+    "id": "B844B054-E874-4180-B28A-EDEB9A7E6A24",
+    "manufacturerId": "F5927E96-7E43-4A7C-BCFF-572DE56E9333",
+    "code": "markiva",
+    "name": "ETL Mark IV A",
+    "wiki": ""
+  },
+  {
+    "id": "D2BF5815-F914-4279-AC1D-9B1D8704C61F",
+    "manufacturerId": "23BD09BC-F0A4-430F-ACBF-35655B0F3FFC",
+    "code": "system41",
+    "name": "Alfaskop System 41",
+    "wiki": ""
+  },
+  {
+    "id": "9061DA51-9ED7-4E5B-8ED7-515BB368991A",
+    "manufacturerId": "8DB69C93-98E3-48F8-9A0C-3A126B755D55",
+    "code": "px4",
+    "name": "Epson PX-4 \u0026 HC-40",
+    "wiki": ""
+  },
+  {
+    "id": "EFC64F05-55C2-4A09-A7E4-1A982E176C57",
+    "manufacturerId": "8DB69C93-98E3-48F8-9A0C-3A126B755D55",
+    "code": "px8",
+    "name": "Epson PX-8, HC-88 \u0026 Geneva",
+    "wiki": ""
+  },
+  {
+    "id": "C3531970-CD8E-493E-930A-3DBC3A14EDD0",
+    "manufacturerId": "8DB69C93-98E3-48F8-9A0C-3A126B755D55",
+    "code": "qx10",
+    "name": "Epson QX-10",
+    "wiki": ""
+  },
+  {
+    "id": "BA021C85-78C1-4024-9AC3-C67DBAA4420D",
+    "manufacturerId": "E187909C-5548-4B93-92F7-8E40534486EF",
+    "code": "scvision",
+    "name": "Super Cassette Vision",
+    "wiki": ""
+  },
+  {
+    "id": "DD960EEB-833B-40A4-A841-78F1B2CE4613",
+    "manufacturerId": "7A32D01E-50DE-4F62-A4FA-B589ECDCE7A4",
+    "code": "advision",
+    "name": "Adventure Vision",
+    "wiki": ""
+  },
+  {
+    "id": "09DB4A0B-1790-40EB-9B62-75E78C3353C6",
+    "manufacturerId": "2ED942A3-687F-418E-B827-6BC5D22ECCE8",
+    "code": "enterprs",
+    "name": "Enterprise 64 \u0026 128",
+    "wiki": ""
+  },
+  {
+    "id": "7B304328-67E5-4F22-9193-69EAD58813D3",
+    "manufacturerId": "EDD11F84-CF96-494C-9AAD-5B52DAE44A38",
+    "code": "arc2001",
+    "name": "Arcadia 2001",
+    "wiki": ""
+  },
+  {
+    "id": "9821CE9A-9B9B-4165-BB7C-D7142A2C772E",
+    "manufacturerId": "8B2FF870-8E9D-48AE-AF35-EEE54A23CFB8",
+    "code": "pecom",
+    "name": "PECOM 32 \u0026 64",
+    "wiki": ""
+  },
+  {
+    "id": "2552CDD1-FB2A-48BC-AED4-13A6EAD627C1",
+    "manufacturerId": "C8B51C01-1C1E-4C93-9334-73CBAB0AAC75",
+    "code": "bk0011",
+    "name": "Elektronika BK-0011-411",
+    "wiki": ""
+  },
+  {
+    "id": "A5A838E1-B3AF-4450-9DA6-7BD4AA0C46C3",
+    "manufacturerId": "C8B51C01-1C1E-4C93-9334-73CBAB0AAC75",
+    "code": "bk0010",
+    "name": "Elektronika BK-0010-0011M",
+    "wiki": ""
+  },
+  {
+    "id": "33D14CFC-076C-4D06-96F0-15C67A8FF183",
+    "manufacturerId": "4CDEB08E-AECD-4BD3-8D4F-1829CD3924FD",
+    "code": "educ8",
+    "name": "EDUC-8",
+    "wiki": ""
+  },
+  {
+    "id": "0C66EB72-BD86-4D17-8903-B937A2F123BD",
+    "manufacturerId": "F4043B1B-FC76-47E1-8CD1-7CC7BCBEDF58",
+    "code": "eg2000",
+    "name": "EG2000 Colour Genie",
+    "wiki": ""
+  },
+  {
+    "id": "4105BA7B-03AA-4966-BF12-5FBAF5BF3F09",
+    "manufacturerId": "9877AF27-7637-423B-B4BC-E38B35B4D3E5",
+    "code": "dragon",
+    "name": "Dragon",
+    "wiki": ""
+  },
+  {
+    "id": "2461EF73-44C5-4A27-BCD6-BC2876C772A9",
+    "manufacturerId": "9877AF27-7637-423B-B4BC-E38B35B4D3E5",
+    "code": "dragona",
+    "name": "Dragon Alpha",
+    "wiki": ""
+  },
+  {
+    "id": "5CDA3246-CF63-475A-9D83-9EFA6FE2BE1B",
+    "manufacturerId": "9877AF27-7637-423B-B4BC-E38B35B4D3E5",
+    "code": "dragonb",
+    "name": "Dragon Beta",
+    "wiki": ""
+  },
+  {
+    "id": "E9DF7FAB-69CD-49CD-BD28-55F1C3BD8031",
+    "manufacturerId": "9E83F347-44B2-408F-A4A2-CFDDDFF9F169",
+    "code": "esselt1h",
+    "name": "Esselte 100",
+    "wiki": ""
+  },
+  {
+    "id": "B31370B6-9BA4-41D5-A088-B53DC093DAB5",
+    "manufacturerId": "8E432015-ED13-4AA3-A693-79BEBCBC2FF3",
+    "code": "alphasrv",
+    "name": "AlphaServer",
+    "wiki": ""
+  },
+  {
+    "id": "02B702FF-9147-4302-BC27-4B8846B197A0",
+    "manufacturerId": "8E432015-ED13-4AA3-A693-79BEBCBC2FF3",
+    "code": "axp150",
+    "name": "DECPx AXP 150",
+    "wiki": ""
+  },
+  {
+    "id": "D582B634-0D69-49AC-9A62-1BA6AF0178AD",
+    "manufacturerId": "8E432015-ED13-4AA3-A693-79BEBCBC2FF3",
+    "code": "pdp1",
+    "name": "PDP-1",
+    "wiki": ""
+  },
+  {
+    "id": "6E46C3C5-7CC9-4C4F-A7AA-F33E8A0B2953",
+    "manufacturerId": "8E432015-ED13-4AA3-A693-79BEBCBC2FF3",
+    "code": "pdp10",
+    "name": "PDP-10",
+    "wiki": ""
+  },
+  {
+    "id": "9FB76965-1C9F-431A-AD57-53AADFF8101D",
+    "manufacturerId": "8E432015-ED13-4AA3-A693-79BEBCBC2FF3",
+    "code": "pdp11",
+    "name": "PDP-11",
+    "wiki": ""
+  },
+  {
+    "id": "9B7DC3E0-2CBB-4002-8491-6223B789218A",
+    "manufacturerId": "8E432015-ED13-4AA3-A693-79BEBCBC2FF3",
+    "code": "pdp12",
+    "name": "PDP-12",
+    "wiki": ""
+  },
+  {
+    "id": "36B7B031-9975-411F-97CD-C1FF9584D0FD",
+    "manufacturerId": "8E432015-ED13-4AA3-A693-79BEBCBC2FF3",
+    "code": "pdp15",
+    "name": "PDP-15",
+    "wiki": ""
+  },
+  {
+    "id": "E8AF223C-C474-4385-A7B5-ABEC38E9AC4B",
+    "manufacturerId": "8E432015-ED13-4AA3-A693-79BEBCBC2FF3",
+    "code": "pdp8",
+    "name": "PDP-8",
+    "wiki": ""
+  },
+  {
+    "id": "0B2B8ED7-237B-46DE-9622-4057BEFCF751",
+    "manufacturerId": "8E432015-ED13-4AA3-A693-79BEBCBC2FF3",
+    "code": "pdp9",
+    "name": "PDP-9",
+    "wiki": ""
+  },
+  {
+    "id": "D9D7C87D-F532-4F05-B7A1-30AC565472C1",
+    "manufacturerId": "8E432015-ED13-4AA3-A693-79BEBCBC2FF3",
+    "code": "rainb100",
+    "name": "Rainbow 100",
+    "wiki": ""
+  },
+  {
+    "id": "DAAFE9B4-54C1-49B4-8277-0BFD77337D4E",
+    "manufacturerId": "8E432015-ED13-4AA3-A693-79BEBCBC2FF3",
+    "code": "vt100",
+    "name": "VT-180",
+    "wiki": ""
+  },
+  {
+    "id": "0D72BEB8-94CE-4652-8586-4328B6E1D62B",
+    "manufacturerId": "3B18CBD6-DF78-4D85-84E5-6A6E4D48E226",
+    "code": "super80m",
+    "name": "Super-80, Super-80D, Super-80E \u0026 Super-80M",
+    "wiki": ""
+  },
+  {
+    "id": "D4FFC67C-EE59-4749-8D95-17E7032EA309",
+    "manufacturerId": "3B18CBD6-DF78-4D85-84E5-6A6E4D48E226",
+    "code": "super80v",
+    "name": "Super-80R \u0026 Super-80V",
+    "wiki": ""
+  },
+  {
+    "id": "CF7A6EC9-2704-477E-9F15-9E7471455176",
+    "manufacturerId": "9525AEB1-0B7A-456D-8472-30FFE24AF463",
+    "code": "daipc",
+    "name": "DAI Personal Computer",
+    "wiki": ""
+  },
+  {
     "id": "9EA7CBC2-73DB-419E-A4A8-AEE595BD09EA",
     "manufacturerId": "A9834EEC-44FD-477E-A450-CDB9A34B7B3A",
     "code": "extreme",
@@ -354,6 +613,13 @@
     "manufacturerId": "D640B7DF-E9F3-4060-8264-1C5E1CD4F080",
     "code": "olytxt20",
     "name": "Olytext 20",
+    "wiki": ""
+  },
+  {
+    "id": "39DADC2B-990C-427D-A5DC-CB86C1249C99",
+    "manufacturerId": "D640B7DF-E9F3-4060-8264-1C5E1CD4F080",
+    "code": "olytxt30",
+    "name": "Olytext 30",
     "wiki": ""
   },
   {

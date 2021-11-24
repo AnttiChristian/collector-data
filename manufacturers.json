@@ -1,5 +1,95 @@
 [
   {
+    "id": "F6416980-637B-421C-A465-7EC00C6697FB",
+    "code": "exidy",
+    "name": "Exidy"
+  },
+  {
+    "id": "DEC0218D-7040-4034-9C6C-6522DCEB1589",
+    "code": "exelvis",
+    "name": "Exelvision"
+  },
+  {
+    "id": "F5927E96-7E43-4A7C-BCFF-572DE56E9333",
+    "code": "electlab",
+    "name": "Electrotechnical Laboratory"
+  },
+  {
+    "id": "23BD09BC-F0A4-430F-ACBF-35655B0F3FFC",
+    "code": "ericsson",
+    "name": "Telefonaktiebolaget LM Ericsson"
+  },
+  {
+    "id": "8DB69C93-98E3-48F8-9A0C-3A126B755D55",
+    "code": "epson",
+    "name": "Seiko Epson Corporation"
+  },
+  {
+    "id": "E187909C-5548-4B93-92F7-8E40534486EF",
+    "code": "epoch",
+    "name": "Epoch Co., Ltd."
+  },
+  {
+    "id": "7A32D01E-50DE-4F62-A4FA-B589ECDCE7A4",
+    "code": "entexind",
+    "name": "Entex Industries, Inc.["
+  },
+  {
+    "id": "2ED942A3-687F-418E-B827-6BC5D22ECCE8",
+    "code": "entercom",
+    "name": "Enterprise Computers"
+  },
+  {
+    "id": "EDD11F84-CF96-494C-9AAD-5B52DAE44A38",
+    "code": "emerson",
+    "name": "Emerson Radio Corporation"
+  },
+  {
+    "id": "8B2FF870-8E9D-48AE-AF35-EEE54A23CFB8",
+    "code": "elinis",
+    "name": "Elektronska Industrija Ni\u0161"
+  },
+  {
+    "id": "C8B51C01-1C1E-4C93-9334-73CBAB0AAC75",
+    "code": "nposc",
+    "name": "NPO Scientific Center"
+  },
+  {
+    "id": "4CDEB08E-AECD-4BD3-8D4F-1829CD3924FD",
+    "code": "elaustr",
+    "name": "Electronics Australia"
+  },
+  {
+    "id": "F4043B1B-FC76-47E1-8CD1-7CC7BCBEDF58",
+    "code": "eaca",
+    "name": "EACA International Ltd"
+  },
+  {
+    "id": "9877AF27-7637-423B-B4BC-E38B35B4D3E5",
+    "code": "dragondt",
+    "name": "Dragon Data Ltd."
+  },
+  {
+    "id": "9E83F347-44B2-408F-A4A2-CFDDDFF9F169",
+    "code": "didact",
+    "name": "Didact AB"
+  },
+  {
+    "id": "3B18CBD6-DF78-4D85-84E5-6A6E4D48E226",
+    "code": "dicksmit",
+    "name": "Dick Smith Electronics"
+  },
+  {
+    "id": "8E432015-ED13-4AA3-A693-79BEBCBC2FF3",
+    "code": "dec",
+    "name": "Digital Equipment Corporation"
+  },
+  {
+    "id": "9525AEB1-0B7A-456D-8472-30FFE24AF463",
+    "code": "dai",
+    "name": "Data Applications International"
+  },
+  {
     "id": "A9834EEC-44FD-477E-A450-CDB9A34B7B3A",
     "code": "cybiko",
     "name": "Cybiko Inc."
