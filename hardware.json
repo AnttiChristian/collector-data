@@ -1,5 +1,102 @@
 [
   {
+    "id": "E3DD4914-A820-42FB-A38B-6C1496C11455",
+    "manufacturerId": "C22F1E76-CF43-4D7E-B79D-D4C8C8CEC6D0",
+    "code": "beena",
+    "name": "Advanced Pico Beena"
+  },
+  {
+    "id": "E48C3341-DF45-476A-A6D8-EECC071BA727",
+    "manufacturerId": "C22F1E76-CF43-4D7E-B79D-D4C8C8CEC6D0",
+    "code": "32x",
+    "name": "Sega 32X",
+    "wiki": ""
+  },
+  {
+    "id": "4AD08A6E-518B-47E3-B029-4F901A947AD0",
+    "manufacturerId": "C22F1E76-CF43-4D7E-B79D-D4C8C8CEC6D0",
+    "code": "sc3000",
+    "name": "Computer 3000",
+    "wiki": ""
+  },
+  {
+    "id": "AC008FA4-4AF8-443E-9859-281503860455",
+    "manufacturerId": "C22F1E76-CF43-4D7E-B79D-D4C8C8CEC6D0",
+    "code": "sg1000",
+    "name": "SG-1000 COmputer Video Game",
+    "wiki": ""
+  },
+  {
+    "id": "7FF166A1-F1C0-4B4B-A72B-5B4C23E918B3",
+    "manufacturerId": "C22F1E76-CF43-4D7E-B79D-D4C8C8CEC6D0",
+    "code": "gamegear",
+    "name": "Game Gear",
+    "wiki": ""
+  },
+  {
+    "id": "949625ED-157B-4D7C-BC8E-629D317CE8FA",
+    "manufacturerId": "C22F1E76-CF43-4D7E-B79D-D4C8C8CEC6D0",
+    "code": "sms",
+    "name": "Mark III \u0026 Master System",
+    "wiki": ""
+  },
+  {
+    "id": "192CD9EC-5850-4C71-AED9-EE75F71DE1FD",
+    "manufacturerId": "C22F1E76-CF43-4D7E-B79D-D4C8C8CEC6D0",
+    "code": "smcd",
+    "name": "Mega-CD \u0026 Sega CD",
+    "wiki": ""
+  },
+  {
+    "id": "807FFB37-6323-4006-8985-A3C96A30129B",
+    "manufacturerId": "C22F1E76-CF43-4D7E-B79D-D4C8C8CEC6D0",
+    "code": "pico",
+    "name": "Pico",
+    "wiki": ""
+  },
+  {
+    "id": "64F211FD-EA9C-4721-9719-082490EBE01A",
+    "manufacturerId": "C22F1E76-CF43-4D7E-B79D-D4C8C8CEC6D0",
+    "code": "scontrol",
+    "name": "Super Control Station",
+    "wiki": ""
+  },
+  {
+    "id": "E04E29B1-F382-42E3-8CE7-AF6016A55D14",
+    "manufacturerId": "C22F1E76-CF43-4D7E-B79D-D4C8C8CEC6D0",
+    "code": "vms",
+    "name": "Visual Memory System",
+    "wiki": ""
+  },
+  {
+    "id": "C9A0EED0-C4EB-4BB0-8FE2-88A06EA1FE93",
+    "manufacturerId": "C22F1E76-CF43-4D7E-B79D-D4C8C8CEC6D0",
+    "code": "womdermg",
+    "name": "WonderMega",
+    "wiki": ""
+  },
+  {
+    "id": "81F377E5-D076-4C8F-A8C1-E9AB9F02F521",
+    "manufacturerId": "B647C0D1-C652-4720-82FE-6FFAE09F2DE7",
+    "code": "fm77av",
+    "name": "FM77-AV",
+    "wiki": ""
+  },
+  {
+    "id": "730988F6-5304-4FF4-8BCF-86249A8D4499",
+    "manufacturerId": "B647C0D1-C652-4720-82FE-6FFAE09F2DE7",
+    "code": "fm7",
+    "name": "FM-7",
+    "wiki": ""
+  },
+  {
+    "id": "0F9E20EA-42D9-4C14-BA92-E6DC177CACDB",
+    "manufacturerId": "B647C0D1-C652-4720-82FE-6FFAE09F2DE7",
+    "code": "fmtowns",
+    "name": "FM Towns",
+    "wiki": ""
+  },
+  {
     "id": "FA363D92-6383-4744-88A0-DE6AEA4C73DF",
     "manufacturerId": "F6416980-637B-421C-A465-7EC00C6697FB",
     "code": "sorcerer",
@@ -1014,6 +1111,34 @@
     "manufacturerId": "2687E989-93CF-4463-B408-400F285D7E4B",
     "name": "GX4000",
     "wiki": "https://en.wikipedia.org/wiki/Amstrad_GX4000"
+  },
+  {
+    "id": "C20D33C5-587A-4105-BD45-563F8E91C889",
+    "manufacturerId": "079E98CB-DDB6-446F-A979-598DA26A6917",
+    "code": "zxspectr",
+    "name": "ZX Spectrum",
+    "wiki": ""
+  },
+  {
+    "id": "96A549A2-D193-41D9-9AE3-BFC981B59DE3",
+    "manufacturerId": "079E98CB-DDB6-446F-A979-598DA26A6917",
+    "code": "sincql",
+    "name": "Sinclair QL",
+    "wiki": ""
+  },
+  {
+    "id": "2DAF6F3D-0B71-474D-84B3-5D1EBCCC3AC1",
+    "manufacturerId": "079E98CB-DDB6-446F-A979-598DA26A6917",
+    "code": "zx80",
+    "name": "ZX80",
+    "wiki": ""
+  },
+  {
+    "id": "453D743E-1471-4C8C-93F2-29989EB0DB03",
+    "manufacturerId": "079E98CB-DDB6-446F-A979-598DA26A6917",
+    "code": "zx81",
+    "name": "ZX81",
+    "wiki": ""
   },
   {
     "id": "C5769D17-79E8-4F7E-8C00-51FDBB1A528A",

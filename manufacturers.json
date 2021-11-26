@@ -1,8 +1,23 @@
 [
   {
+    "id": "C22F1E76-CF43-4D7E-B79D-D4C8C8CEC6D0",
+    "code": "sega",
+    "name": "Sega Corporation"
+  },
+  {
+    "id": "B647C0D1-C652-4720-82FE-6FFAE09F2DE7",
+    "code": "fujitsu",
+    "name": "Fujitsu Limited"
+  },
+  {
     "id": "F6416980-637B-421C-A465-7EC00C6697FB",
     "code": "exidy",
     "name": "Exidy"
+  },
+  {
+    "id": "079E98CB-DDB6-446F-A979-598DA26A6917",
+    "code": "sinclair",
+    "name": "Sinclair Research Ltd."
   },
   {
     "id": "DEC0218D-7040-4034-9C6C-6522DCEB1589",
