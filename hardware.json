@@ -1,5 +1,71 @@
 [
   {
+    "id": "534A4F90-75CF-462F-A1E0-81A43A7F502B",
+    "manufacturerId": "ADA1798E-089A-4F51-A69B-2631D8B2BAD1",
+    "code": "cc40",
+    "name": "CC-40"
+  },
+  {
+    "id": "44E0D184-80A8-433C-A8DD-3832ED290F9F",
+    "manufacturerId": "ADA1798E-089A-4F51-A69B-2631D8B2BAD1",
+    "code": "ti73",
+    "name": "TI-73"
+  },
+  {
+    "id": "389E4E6F-FBDD-4F68-A0D8-5918B72E5638",
+    "manufacturerId": "ADA1798E-089A-4F51-A69B-2631D8B2BAD1",
+    "code": "ti80",
+    "name": "TI-80"
+  },
+  {
+    "id": "30F6453D-944E-40C8-B695-F08CDB5B7763",
+    "manufacturerId": "ADA1798E-089A-4F51-A69B-2631D8B2BAD1",
+    "code": "ti81",
+    "name": "TI-81"
+  },
+  {
+    "id": "ECAAEE68-7560-463C-BC70-EBBF33B293F3",
+    "manufacturerId": "ADA1798E-089A-4F51-A69B-2631D8B2BAD1",
+    "code": "ti82",
+    "name": "TI-82"
+  },
+  {
+    "id": "A1416D90-464E-4E1C-A283-476F065CE84D",
+    "manufacturerId": "ADA1798E-089A-4F51-A69B-2631D8B2BAD1",
+    "code": "ti83",
+    "name": "TI-83"
+  },
+  {
+    "id": "10080BA2-D736-4694-B1F5-87E16AB9626B",
+    "manufacturerId": "ADA1798E-089A-4F51-A69B-2631D8B2BAD1",
+    "code": "ti85",
+    "name": "TI-85"
+  },
+  {
+    "id": "465C1844-77DC-4C74-A29A-099E7CC5FB49",
+    "manufacturerId": "ADA1798E-089A-4F51-A69B-2631D8B2BAD1",
+    "code": "ti86",
+    "name": "TI-86"
+  },
+  {
+    "id": "650D1CE0-8037-4032-BD6F-5D9C90861CF9",
+    "manufacturerId": "ADA1798E-089A-4F51-A69B-2631D8B2BAD1",
+    "code": "ti89",
+    "name": "TI-89"
+  },
+  {
+    "id": "B5EED9E4-B30C-4D20-8835-3BD302AB2EDF",
+    "manufacturerId": "ADA1798E-089A-4F51-A69B-2631D8B2BAD1",
+    "code": "ti92",
+    "name": "TI-92"
+  },
+  {
+    "id": "5FF9E020-EDA0-4C41-8081-4091146CF8B9",
+    "manufacturerId": "ADA1798E-089A-4F51-A69B-2631D8B2BAD1",
+    "code": "ti994a",
+    "name": "TI-99 4A"
+  },
+  {
     "id": "E3DD4914-A820-42FB-A38B-6C1496C11455",
     "manufacturerId": "C22F1E76-CF43-4D7E-B79D-D4C8C8CEC6D0",
     "code": "beena",
