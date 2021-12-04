@@ -1,5 +1,173 @@
 [
   {
+    "id": "ECAB615E-E88E-44CF-82A3-FDA111CFDD29",
+    "manufacturerId": "16DD1935-3968-4B72-A62A-B88E1805CAC2",
+    "code": "senchess",
+    "name": "Sensory Chess Challenger"
+  },
+  {
+    "id": "D3B4B631-B0DD-40A7-A2AE-7315B501A037",
+    "manufacturerId": "0A82BB6E-F0F2-4375-9EF4-057FE215B8C2",
+    "code": "supracan",
+    "name": "Super A\u0027can"
+  },
+  {
+    "id": "DF6F8E72-E469-4A1B-B983-A538DCB3D0B7",
+    "manufacturerId": "A1052560-8291-4345-8091-F6EE162F0C5F",
+    "code": "studybox",
+    "name": "StudyBox"
+  },
+  {
+    "id": "7C3898E3-3BB2-452F-BFE1-B3E1D65EC423",
+    "manufacturerId": "6B3A06B7-236A-47C9-83D7-682666BBBC29",
+    "code": "fujic",
+    "name": "FUJIC"
+  },
+  {
+    "id": "76A27218-22FA-48DC-BC99-D3FE424DA01B",
+    "manufacturerId": "6E7EBE3E-6E7D-4B26-9C6E-02BBA81ACDC0",
+    "code": "magdrive",
+    "name": "Magic drive"
+  },
+  {
+    "id": "596D42C0-9A89-405C-BF83-38135945141B",
+    "manufacturerId": "A3589135-49C1-48D9-845E-729D78F72E10",
+    "code": "bbii",
+    "name": "Big Board II"
+  },
+  {
+    "id": "49347949-E078-4C75-B082-C67193C42298",
+    "manufacturerId": "57B48DE3-DB9C-4074-ABF4-1A021B52EA04",
+    "code": "cmisiii",
+    "name": "Fairlight CMI Series III"
+  },
+  {
+    "id": "24591E85-C4E9-4BF9-8704-A698FCEFE8B4",
+    "manufacturerId": "57B48DE3-DB9C-4074-ABF4-1A021B52EA04",
+    "code": "channelf",
+    "name": "Fairchild VES \u0026 Channel F"
+  },
+  {
+    "id": "33850281-00AB-4019-B19A-76FF7F493CCD",
+    "manufacturerId": "83E3FDF0-FA14-4565-AA25-BF22B916CC32",
+    "code": "msx",
+    "name": "MSX"
+  },
+  {
+    "id": "1304B2D5-BF18-40A1-B59F-516CD703913A",
+    "manufacturerId": "83E3FDF0-FA14-4565-AA25-BF22B916CC32",
+    "code": "msx2",
+    "name": "MSX2"
+  },
+  {
+    "id": "CF77D06E-1691-48ED-9C4A-400F60CBC363",
+    "manufacturerId": "83E3FDF0-FA14-4565-AA25-BF22B916CC32",
+    "code": "msx2plus",
+    "name": "MSX2\u002B"
+  },
+  {
+    "id": "8A274BD0-ACB9-435F-8E6C-3D846DBBEFC9",
+    "manufacturerId": "83E3FDF0-FA14-4565-AA25-BF22B916CC32",
+    "code": "turbor",
+    "name": "TurboR"
+  },
+  {
+    "id": "F38D300F-1AF9-4A68-BBF1-543FFF82D692",
+    "manufacturerId": "E55599F8-1A38-4C97-AE4C-73D632658954",
+    "code": "n64",
+    "name": "Nintendo 64"
+  },
+  {
+    "id": "AF559FF2-B3C3-43E5-846C-AEFF4589F075",
+    "manufacturerId": "E55599F8-1A38-4C97-AE4C-73D632658954",
+    "code": "n64dd",
+    "name": "Nintendo 64DD"
+  },
+  {
+    "id": "DDA27219-69B7-4BE4-825D-EBD0A67CB66C",
+    "manufacturerId": "E55599F8-1A38-4C97-AE4C-73D632658954",
+    "code": "nds",
+    "name": "Nintendo DS"
+  },
+  {
+    "id": "C0F2E314-CB72-4FD3-849E-9E215E260D0B",
+    "manufacturerId": "E55599F8-1A38-4C97-AE4C-73D632658954",
+    "code": "nes",
+    "name": "Famicom \u0026 Entertainment System"
+  },
+  {
+    "id": "1CB704C2-1B7E-4141-BE9C-412E70014B2E",
+    "manufacturerId": "E55599F8-1A38-4C97-AE4C-73D632658954",
+    "code": "nfds",
+    "name": "Famicom Disk System"
+  },
+  {
+    "id": "C82564AA-6376-4590-A79E-4A31D114909A",
+    "manufacturerId": "E55599F8-1A38-4C97-AE4C-73D632658954",
+    "code": "gb",
+    "name": "Game Boy"
+  },
+  {
+    "id": "CCB38944-5298-48BD-AE25-27871DF7997E",
+    "manufacturerId": "E55599F8-1A38-4C97-AE4C-73D632658954",
+    "code": "gba",
+    "name": "Game Boy Advance"
+  },
+  {
+    "id": "47F2EB38-5BEB-41E8-81B0-F69981164680",
+    "manufacturerId": "E55599F8-1A38-4C97-AE4C-73D632658954",
+    "code": "gbcolor",
+    "name": "Game Boy Color"
+  },
+  {
+    "id": "6157B476-53A1-4FC7-A362-7A0B603AA98A",
+    "manufacturerId": "E55599F8-1A38-4C97-AE4C-73D632658954",
+    "code": "playan",
+    "name": "Play-Yan"
+  },
+  {
+    "id": "DD1DB2EC-E5D7-4187-B85B-CE5882694B79",
+    "manufacturerId": "E55599F8-1A38-4C97-AE4C-73D632658954",
+    "code": "pokemini",
+    "name": "Pokemon Mini"
+  },
+  {
+    "id": "ED138D96-44D8-4A71-BFD1-DE7FA2F7F8AE",
+    "manufacturerId": "E55599F8-1A38-4C97-AE4C-73D632658954",
+    "code": "snes",
+    "name": "Super Famicom \u0026 Super Entertainment System"
+  },
+  {
+    "id": "5AA4EF86-D358-4890-9A6D-0DC491EF2A22",
+    "manufacturerId": "E55599F8-1A38-4C97-AE4C-73D632658954",
+    "code": "virtuboy",
+    "name": "Virtual Boy"
+  },
+  {
+    "id": "9ED70477-1B7C-4940-8C74-7668727986D6",
+    "manufacturerId": "0E25EC3E-EAED-4E50-AA99-FB9310B152D9",
+    "code": "mo5",
+    "name": "MO5"
+  },
+  {
+    "id": "1055D6EB-135C-47A8-AB5F-72F18E26CD66",
+    "manufacturerId": "0E25EC3E-EAED-4E50-AA99-FB9310B152D9",
+    "code": "mo6",
+    "name": "MO6"
+  },
+  {
+    "id": "9699EBD7-C526-4A09-9053-88C028AFF55B",
+    "manufacturerId": "0E25EC3E-EAED-4E50-AA99-FB9310B152D9",
+    "code": "to7",
+    "name": "TO7"
+  },
+  {
+    "id": "85CE49B0-2036-4E81-8A05-67368B712CC5",
+    "manufacturerId": "0E25EC3E-EAED-4E50-AA99-FB9310B152D9",
+    "code": "to8",
+    "name": "TO8, TO8D, TO9, TO9\u002B"
+  },
+  {
     "id": "534A4F90-75CF-462F-A1E0-81A43A7F502B",
     "manufacturerId": "ADA1798E-089A-4F51-A69B-2631D8B2BAD1",
     "code": "cc40",

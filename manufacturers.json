@@ -1,5 +1,50 @@
 [
   {
+    "id": "16DD1935-3968-4B72-A62A-B88E1805CAC2",
+    "code": "fidelity",
+    "name": "Fidelity Electronics"
+  },
+  {
+    "id": "0A82BB6E-F0F2-4375-9EF4-057FE215B8C2",
+    "code": "funtech",
+    "name": "Funtech\/Dunhuang Technology"
+  },
+  {
+    "id": "A1052560-8291-4345-8091-F6EE162F0C5F",
+    "code": "fukutake",
+    "name": "Fukutake Publishing Co, Ltd."
+  },
+  {
+    "id": "6B3A06B7-236A-47C9-83D7-682666BBBC29",
+    "code": "fujifilm",
+    "name": "Fuji Photo Film"
+  },
+  {
+    "id": "6E7EBE3E-6E7D-4B26-9C6E-02BBA81ACDC0",
+    "code": "frontfc",
+    "name": "Front Fareast Corporation"
+  },
+  {
+    "id": "A3589135-49C1-48D9-845E-729D78F72E10",
+    "code": "ferguson",
+    "name": "Ferguson Jim"
+  },
+  {
+    "id": "57B48DE3-DB9C-4074-ABF4-1A021B52EA04",
+    "code": "fairchld",
+    "name": "Fairchild Camera and Instrument"
+  },
+  {
+    "id": "83E3FDF0-FA14-4565-AA25-BF22B916CC32",
+    "code": "msft",
+    "name": "Microsoft"
+  },
+  {
+    "id": "0E25EC3E-EAED-4E50-AA99-FB9310B152D9",
+    "code": "thomson",
+    "name": "Thomson SARL"
+  },
+  {
     "id": "ADA1798E-089A-4F51-A69B-2631D8B2BAD1",
     "code": "ti",
     "name": "Texas Instruments Incorporated"
